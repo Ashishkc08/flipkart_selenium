@@ -1,0 +1,6 @@
+utils\captureScreenshot.class
+utils\ExtentReport.class
+utils\ExcelUtil.class
+utils\WebDriverFactory.class
+utils\ConfigurationManager.class
+utils\CustomFunctions.class

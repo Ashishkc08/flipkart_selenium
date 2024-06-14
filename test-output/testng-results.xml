@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-14T10:33:06 IST" name="Default suite" finished-at="2024-06-14T10:33:21 IST" duration-ms="15657">
+    <groups>
+      <group name="cart">
+        <method signature="CartPageTest.verifyProductAddedToCart(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.CartPageTest@7cbee484]" name="verifyProductAddedToCart" class="tests.CartPageTest"/>
+      </group> <!-- cart -->
+    </groups>
+    <test started-at="2024-06-14T10:33:06 IST" name="Default test" finished-at="2024-06-14T10:33:21 IST" duration-ms="15657">
+      <class name="tests.CartPageTest">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:tests.CartPageTest@7cbee484]" started-at="2024-06-14T10:33:06 IST" name="setUpSuite" finished-at="2024-06-14T10:33:06 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CartPageTest@7cbee484]" started-at="2024-06-14T10:33:07 IST" name="setUp" finished-at="2024-06-14T10:33:13 IST" duration-ms="6931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductAddedToCart(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.CartPageTest@7cbee484]" started-at="2024-06-14T10:33:13 IST" name="verifyProductAddedToCart" data-provider="addToCartData" finished-at="2024-06-14T10:33:21 IST" duration-ms="7695" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[verifyProductAddedToCart]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[iphone 15 plus]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductAddedToCart -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.CartPageTest@7cbee484]" started-at="2024-06-14T10:33:21 IST" name="tearDown" finished-at="2024-06-14T10:33:21 IST" duration-ms="282" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyProductAddedToCart status=SUCCESS method=CartPageTest.verifyProductAddedToCart(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.CartPageTest@7cbee484] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:tests.CartPageTest@7cbee484]" started-at="2024-06-14T10:33:22 IST" name="tearDownSuite" finished-at="2024-06-14T10:33:22 IST" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+      </class> <!-- tests.CartPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

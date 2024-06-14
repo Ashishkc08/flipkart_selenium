@@ -1,0 +1,1210 @@
+19:15:34.924 [main] INFO  - Clicked on the Grocery link
+19:15:39.873 [main] INFO  - Clicked on the Login link
+19:15:46.166 [main] INFO  - Performed search for keyword: laptop
+19:18:19.258 [main] INFO  - Clicked on the Login link
+19:18:19.494 [main] INFO  - Entered email: example@test.com
+19:18:20.495 [main] INFO  - Email input text retrieved: example@test.com
+19:18:26.480 [main] INFO  - Clicked on the Login link
+19:18:26.594 [main] INFO  - Clicked on the Signup link
+19:18:26.637 [main] INFO  - Signup text retrieved: Looks like you're new here!
+09:41:39.850 [main] INFO  - Performed search for keyword: laptop
+09:42:43.815 [main] INFO  - Clicked on the Login link
+09:42:43.867 [main] INFO  - Login text retrieved: Login
+09:42:51.967 [main] INFO  - Performed search for keyword: laptop
+09:42:56.889 [main] INFO  - Clicked on the Grocery link
+09:42:56.920 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+09:43:00.439 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+09:44:24.614 [main] INFO  - Clicked on the Login link
+09:44:25.852 [main] INFO  - Login text retrieved: Login
+09:44:34.928 [main] INFO  - Performed search for keyword: laptop
+09:44:40.091 [main] INFO  - Clicked on the Grocery link
+09:44:40.119 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+09:44:43.615 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+09:46:05.493 [main] INFO  - Clicked on the Login link
+09:46:05.561 [main] INFO  - Login text retrieved: Login
+09:46:11.645 [main] INFO  - Performed search for keyword: laptop
+09:46:16.795 [main] INFO  - Clicked on the Grocery link
+09:46:16.834 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+09:46:20.108 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+09:50:17.690 [main] INFO  - Clicked on the Login link
+09:50:17.872 [main] INFO  - Login text retrieved: Login
+09:50:23.819 [main] INFO  - Performed search for keyword: laptop
+09:50:27.549 [main] INFO  - Cart icon present: false
+09:50:27.549 [main] INFO  - Is Cart Icon Present: false
+09:50:30.758 [main] INFO  - Flipkart logo present: true
+09:50:30.758 [main] INFO  - Is Flipkart Logo Present: true
+09:50:35.765 [main] INFO  - Clicked on the Grocery link
+09:50:35.794 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+09:50:39.167 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+09:53:30.795 [main] INFO  - Cart icon present: true
+09:53:30.802 [main] INFO  - Is Cart Icon Present: true
+09:54:10.656 [main] INFO  - Clicked on the Login link
+09:54:10.723 [main] INFO  - Login text retrieved: Login
+09:54:17.034 [main] INFO  - Performed search for keyword: laptop
+09:54:20.908 [main] INFO  - Cart icon present: true
+09:54:20.909 [main] INFO  - Is Cart Icon Present: true
+09:54:24.188 [main] INFO  - Flipkart logo present: true
+09:54:24.188 [main] INFO  - Is Flipkart Logo Present: true
+09:54:29.133 [main] INFO  - Clicked on the Grocery link
+09:54:29.163 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+09:54:32.579 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+12:11:05.071 [main] INFO  - Performed search for keyword: iphone 15 plus
+12:11:05.193 [main] INFO  - Clicked on the product link
+12:12:10.786 [main] INFO  - Performed search for keyword: iphone 15 plus
+12:12:10.928 [main] INFO  - Clicked on the product link
+12:15:28.999 [main] INFO  - Performed search for keyword: iphone 15 plus
+12:15:29.130 [main] INFO  - Clicked on the product link
+12:18:49.691 [main] INFO  - Performed search for keyword: iphone 15 plus
+12:18:49.862 [main] INFO  - Clicked on the product link
+12:19:29.817 [main] INFO  - Performed search for keyword: iphone 15 plus
+12:19:29.957 [main] INFO  - Clicked on the product link
+12:19:58.971 [main] INFO  - Performed search for keyword: iphone 15 plus
+12:19:59.120 [main] INFO  - Clicked on the product link
+12:20:48.591 [main] INFO  - Performed search for keyword: iphone 15 plus
+12:20:48.735 [main] INFO  - Clicked on the product link
+12:23:02.433 [main] INFO  - Performed search for keyword: iphone 15 plus
+12:23:02.539 [main] INFO  - Clicked on the product link
+13:30:42.743 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:30:42.922 [main] INFO  - Clicked on the product link
+13:33:26.871 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:33:27.220 [main] INFO  - Clicked on the product link
+13:34:48.550 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:34:48.689 [main] INFO  - Clicked on the product link
+13:35:14.551 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:35:14.695 [main] INFO  - Clicked on the product link
+13:38:53.301 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:38:53.445 [main] INFO  - Clicked on the product link
+13:40:05.984 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:40:06.601 [main] INFO  - Clicked on the product link
+13:42:47.568 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:42:48.196 [main] INFO  - Clicked on the product link
+13:47:31.500 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:47:32.164 [main] INFO  - Clicked on the product link
+13:49:06.956 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:49:07.216 [main] INFO  - Clicked on the product link
+13:52:10.597 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:52:11.336 [main] INFO  - Clicked on the product link
+13:54:06.022 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:54:06.166 [main] INFO  - Clicked on the product link
+13:55:36.246 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:55:36.381 [main] INFO  - Clicked on the product link
+13:57:56.484 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:57:57.192 [main] INFO  - Clicked on the product link
+14:00:11.448 [main] INFO  - Performed search for keyword: iphone 15 plus
+14:00:11.606 [main] INFO  - Clicked on the product link
+14:00:34.287 [main] INFO  - Performed search for keyword: iphone 15 plus
+14:00:34.447 [main] INFO  - Clicked on the product link
+14:02:47.957 [main] INFO  - Performed search for keyword: iphone 15 plus
+14:02:48.637 [main] INFO  - Clicked on the product link
+19:10:34.780 [main] INFO  - Performed search for keyword: iphone 15 plus
+19:10:35.298 [main] INFO  - Clicked on the product link
+19:11:00.920 [main] INFO  - Performed search for keyword: iphone 15 plus
+19:11:01.279 [main] INFO  - Clicked on the product link
+19:11:15.734 [main] INFO  - Performed search for keyword: iphone 15 plus
+19:11:15.893 [main] INFO  - Clicked on the product link
+19:13:50.850 [main] INFO  - Performed search for keyword: iphone 15 plus
+19:13:50.986 [main] INFO  - Clicked on the product link
+19:17:06.449 [main] INFO  - Performed search for keyword: iphone 15 plus
+19:17:07.306 [main] INFO  - Clicked on the product link
+19:30:08.827 [main] INFO  - Performed search for keyword: iphone 15 plus
+19:30:08.991 [main] INFO  - Clicked on the product link
+19:30:30.081 [main] INFO  - Performed search for keyword: iphone 15 plus
+19:30:30.926 [main] INFO  - Clicked on the product link
+19:30:59.007 [main] INFO  - Performed search for keyword: iphone 15 plus
+19:30:59.204 [main] INFO  - Clicked on the product link
+19:31:01.637 [main] ERROR - Price element not found or could not parse the price. Returning 0.
+19:37:06.821 [main] INFO  - Performed search for keyword: iphone 15 plus
+19:37:07.284 [main] INFO  - Clicked on the product link
+19:37:09.743 [main] ERROR - Price element not found or could not parse the price. Returning 0.
+20:00:04.754 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:00:05.643 [main] INFO  - Clicked on the product link
+20:06:21.132 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:06:21.345 [main] INFO  - Clicked on the product link
+20:07:48.272 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:07:48.479 [main] INFO  - Clicked on the product link
+20:09:26.639 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:09:26.867 [main] INFO  - Clicked on the product link
+20:12:17.534 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:12:18.294 [main] INFO  - Clicked on the product link
+20:13:26.284 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:13:26.448 [main] INFO  - Clicked on the product link
+20:14:02.041 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:14:02.182 [main] INFO  - Clicked on the product link
+20:23:31.789 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:23:31.954 [main] INFO  - Clicked on the product link
+20:24:39.687 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:24:39.830 [main] INFO  - Clicked on the product link
+20:24:56.096 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:24:56.277 [main] INFO  - Clicked on the product link
+20:26:52.945 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:26:53.091 [main] INFO  - Clicked on the product link
+20:29:16.104 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:29:16.663 [main] INFO  - Clicked on the product link
+20:30:47.417 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:30:47.761 [main] INFO  - Clicked on the product link
+20:38:09.504 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:38:09.931 [main] INFO  - Clicked on the product link
+20:39:20.991 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:39:21.253 [main] INFO  - Clicked on the product link
+20:40:06.303 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:40:06.646 [main] INFO  - Clicked on the product link
+20:41:29.052 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:41:29.283 [main] INFO  - Clicked on the product link
+20:42:27.221 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:42:27.487 [main] INFO  - Clicked on the product link
+09:47:37.778 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:47:37.922 [main] INFO  - Clicked on the product link
+09:48:06.513 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:48:06.746 [main] INFO  - Clicked on the product link
+09:48:20.002 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:48:20.313 [main] INFO  - Clicked on the product link
+09:49:02.556 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:49:02.682 [main] INFO  - Clicked on the product link
+09:50:41.744 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:50:41.900 [main] INFO  - Clicked on the product link
+09:51:48.170 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:51:48.376 [main] INFO  - Clicked on the product link
+09:52:27.595 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:52:27.702 [main] INFO  - Clicked on the product link
+09:53:33.817 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:53:33.935 [main] INFO  - Clicked on the product link
+09:53:53.874 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:53:53.995 [main] INFO  - Clicked on the product link
+09:54:28.924 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:54:29.053 [main] INFO  - Clicked on the product link
+09:55:02.151 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:55:02.271 [main] INFO  - Clicked on the product link
+09:57:14.080 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:57:14.220 [main] INFO  - Clicked on the product link
+09:58:12.007 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:58:12.134 [main] INFO  - Clicked on the product link
+09:59:42.020 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:59:42.137 [main] INFO  - Clicked on the product link
+10:00:11.032 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:00:11.160 [main] INFO  - Clicked on the product link
+10:00:13.018 [main] ERROR - Price element not found or could not parse the price. Returning 0.
+10:01:19.012 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:01:19.127 [main] INFO  - Clicked on the product link
+10:01:21.171 [main] ERROR - Price element not found or could not parse the price. Returning 0.
+10:06:32.822 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:06:32.926 [main] INFO  - Clicked on the product link
+10:06:40.136 [main] ERROR - Price element not found or could not parse the price. Returning 0.
+10:09:58.168 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:09:58.285 [main] INFO  - Clicked on the product link
+10:10:00.273 [main] INFO  - Attempting to find the price element.
+10:10:00.303 [main] ERROR - Price element not found or could not parse the price. Returning 0.
+10:10:25.908 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:10:26.033 [main] INFO  - Clicked on the product link
+10:10:29.872 [main] INFO  - Attempting to find the price element.
+10:10:29.935 [main] INFO  - Price text found: ₹82,499
+10:10:29.935 [main] INFO  - Parsed price value: 82499
+10:43:05.017 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:43:05.414 [main] INFO  - Clicked on the product link
+10:44:11.817 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:44:11.945 [main] INFO  - Clicked on the product link
+10:44:16.236 [main] INFO  - Attempting to increase the quantity.
+10:44:16.466 [main] INFO  - Quantity increased by 1.
+10:44:16.466 [main] INFO  - Attempting to find the quantity text box.
+10:44:16.507 [main] INFO  - Quantity text found: 1
+10:44:48.813 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:44:49.029 [main] INFO  - Clicked on the product link
+10:44:53.375 [main] INFO  - Attempting to increase the quantity.
+10:44:53.561 [main] INFO  - Quantity increased by 1.
+10:44:55.568 [main] INFO  - Attempting to find the quantity text box.
+10:44:55.625 [main] INFO  - Quantity text found: 1
+10:46:10.633 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:46:10.755 [main] INFO  - Clicked on the product link
+10:46:14.826 [main] INFO  - Attempting to increase the quantity.
+10:46:15.137 [main] INFO  - Quantity increased by 1.
+10:46:19.140 [main] INFO  - Attempting to find the quantity text box.
+10:46:19.175 [main] INFO  - Quantity text found: 1
+10:51:30.029 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:51:30.292 [main] INFO  - Clicked on the product link
+10:51:34.472 [main] INFO  - Attempting to increase the quantity.
+10:51:34.532 [main] INFO  - Attempting to find the quantity text box.
+10:51:34.588 [main] INFO  - Quantity text found: 1
+10:51:34.751 [main] INFO  - Waiting for the quantity to be updated.
+10:51:44.963 [main] ERROR - Failed to increase the quantity.
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for condition to not be valid: Attribute or property 'value' to be '1'. Current value: '1' (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\ASHISH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62727}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62727/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5bfcde1ba4097d56de5fbe37fa14a08d
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.21.0.jar:?]
+	at pages.CartPage.waitForQuantityUpdate(CartPage.java:76) ~[test-classes/:?]
+	at pages.CartPage.increaseQuantity(CartPage.java:52) ~[test-classes/:?]
+	at tests.CartPageTest.verifyIncreaseQuantity(CartPageTest.java:58) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+10:51:48.993 [main] INFO  - Attempting to find the quantity text box.
+10:51:49.033 [main] INFO  - Quantity text found: 1
+10:59:06.756 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:59:06.893 [main] INFO  - Clicked on the product link
+10:59:11.065 [main] INFO  - Attempting to increase the quantity.
+10:59:11.401 [main] INFO  - Quantity increased by 1.
+10:59:15.404 [main] INFO  - Attempting to find the quantity text box.
+10:59:15.488 [main] INFO  - Quantity text found: 1
+11:05:34.176 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:05:34.317 [main] INFO  - Clicked on the product link
+11:05:38.432 [main] INFO  - Attempting to increase the quantity.
+11:05:38.806 [main] INFO  - Quantity increased by 1.
+11:05:42.815 [main] INFO  - Attempting to find the quantity text box.
+11:05:42.839 [main] INFO  - Quantity text found: 1
+11:07:10.074 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:07:10.260 [main] INFO  - Clicked on the product link
+11:07:14.344 [main] INFO  - Attempting to increase the quantity.
+11:07:14.624 [main] INFO  - Quantity increased by 1.
+11:07:18.630 [main] INFO  - Attempting to find the quantity text box.
+11:07:18.667 [main] INFO  - Quantity text found: 1
+11:08:57.417 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:08:57.556 [main] INFO  - Clicked on the product link
+11:09:01.719 [main] INFO  - Attempting to increase the quantity.
+11:09:01.961 [main] INFO  - Quantity increased by 1.
+11:09:05.965 [main] INFO  - Attempting to find the quantity text box.
+11:09:06.001 [main] INFO  - Quantity text found: 1
+11:09:23.328 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:09:42.245 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:09:42.399 [main] INFO  - Clicked on the product link
+11:09:46.674 [main] INFO  - Attempting to increase the quantity.
+11:09:46.907 [main] INFO  - Quantity increased by 1.
+11:09:50.911 [main] INFO  - Attempting to find the quantity text box.
+11:09:51.023 [main] INFO  - Quantity text found: 2
+11:10:38.048 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:10:38.727 [main] INFO  - Clicked on the product link
+11:10:42.821 [main] INFO  - Attempting to increase the quantity.
+11:10:43.074 [main] INFO  - Quantity increased by 1.
+11:10:47.083 [main] INFO  - Attempting to find the quantity text box.
+11:10:47.218 [main] INFO  - Quantity text found: 1
+11:16:54.806 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:16:54.943 [main] INFO  - Clicked on the product link
+11:16:59.211 [main] INFO  - Attempting to increase the quantity.
+11:16:59.466 [main] INFO  - Quantity increased by 1.
+11:17:03.470 [main] INFO  - Attempting to find the quantity text box.
+11:17:03.507 [main] INFO  - Quantity text found: 2
+11:17:28.847 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:17:28.979 [main] INFO  - Clicked on the product link
+11:17:33.273 [main] INFO  - Attempting to increase the quantity.
+11:17:33.500 [main] INFO  - Quantity increased by 1.
+11:17:33.500 [main] INFO  - Attempting to find the quantity text box.
+11:17:33.547 [main] INFO  - Quantity text found: 1
+11:17:57.771 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:17:58.447 [main] INFO  - Clicked on the product link
+11:18:02.526 [main] INFO  - Attempting to increase the quantity.
+11:18:02.770 [main] INFO  - Quantity increased by 1.
+11:18:04.771 [main] INFO  - Attempting to find the quantity text box.
+11:18:04.855 [main] INFO  - Quantity text found: 2
+11:45:49.256 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:45:49.480 [main] INFO  - Clicked on the product link
+11:45:53.511 [main] INFO  - Attempting to click remove link.
+11:45:53.752 [main] INFO  - Remove link clicked.
+11:45:53.752 [main] INFO  - Attempting to click remove button.
+11:49:30.686 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:49:30.819 [main] INFO  - Clicked on the product link
+11:49:35.270 [main] INFO  - Attempting to click remove link.
+11:49:35.505 [main] INFO  - Remove link clicked.
+11:49:35.505 [main] INFO  - Attempting to click remove button.
+11:50:05.607 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:50:05.737 [main] INFO  - Clicked on the product link
+11:50:09.822 [main] INFO  - Attempting to click remove link.
+11:50:10.111 [main] INFO  - Remove link clicked.
+11:50:10.111 [main] INFO  - Attempting to click remove button.
+11:50:12.285 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+14:47:28.059 [main] INFO  - Performed search for keyword: iphone 15 plus
+14:47:28.276 [main] INFO  - Clicked on the product link
+14:47:36.692 [main] INFO  - Clicked on the Login link
+14:47:37.612 [main] INFO  - Login text retrieved: Login
+14:47:42.620 [main] INFO  - Performed search for keyword: laptop
+14:47:46.003 [main] INFO  - Cart icon present: true
+14:47:46.003 [main] INFO  - Is Cart Icon Present: true
+14:47:49.291 [main] INFO  - Flipkart logo present: true
+14:47:49.291 [main] INFO  - Is Flipkart Logo Present: true
+14:47:53.771 [main] INFO  - Clicked on the Grocery link
+14:47:53.788 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+14:47:56.725 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+14:48:01.586 [main] INFO  - Clicked on the Login link
+14:48:01.702 [main] INFO  - Entered email: example@test.com
+14:48:01.728 [main] INFO  - Email input text retrieved: example@test.com
+14:48:05.749 [main] INFO  - Clicked on the Login link
+14:48:06.544 [main] INFO  - Clicked on the Signup link
+14:48:06.573 [main] INFO  - Signup text retrieved: Looks like you're new here!
+14:48:13.409 [main] INFO  - Performed search for keyword: iphone 15 plus
+14:48:13.630 [main] INFO  - Clicked on the product link
+14:48:17.656 [main] INFO  - Attempting to increase the quantity.
+14:48:17.831 [main] INFO  - Quantity increased by 1.
+14:48:19.840 [main] INFO  - Attempting to find the quantity text box.
+14:48:19.898 [main] INFO  - Quantity text found: 2
+14:48:26.640 [main] INFO  - Performed search for keyword: iphone 15 plus
+14:48:26.850 [main] INFO  - Clicked on the product link
+14:48:30.873 [main] INFO  - Attempting to find the price element.
+14:48:30.921 [main] INFO  - Price text found: ₹82,499
+14:48:30.921 [main] INFO  - Parsed price value: 82499
+14:48:36.945 [main] INFO  - Performed search for keyword: iphone 15 plus
+14:48:37.077 [main] INFO  - Clicked on the product link
+14:48:41.106 [main] INFO  - Attempting to click remove link.
+14:48:41.320 [main] INFO  - Remove link clicked.
+14:48:41.320 [main] INFO  - Attempting to click remove button.
+22:28:15.242 [main] INFO  - Performed search for keyword: iphone 15 plus
+22:28:21.751 [main] INFO  - Clicked on the Login link
+22:28:22.666 [main] INFO  - Login text retrieved: Login
+22:28:31.656 [main] INFO  - Performed search for keyword: laptop
+22:28:36.773 [main] INFO  - Cart icon present: true
+22:28:36.773 [main] INFO  - Is Cart Icon Present: true
+22:28:41.268 [main] INFO  - Flipkart logo present: true
+22:28:41.268 [main] INFO  - Is Flipkart Logo Present: true
+22:28:48.014 [main] INFO  - Clicked on the Grocery link
+22:28:48.045 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+22:28:52.804 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+22:28:58.820 [main] INFO  - Clicked on the Login link
+22:28:58.965 [main] INFO  - Entered email: example@test.com
+22:28:58.998 [main] INFO  - Email input text retrieved: example@test.com
+22:29:05.585 [main] INFO  - Clicked on the Login link
+22:29:05.710 [main] INFO  - Clicked on the Signup link
+22:29:05.751 [main] INFO  - Signup text retrieved: Looks like you're new here!
+22:29:12.553 [main] INFO  - Performed search for keyword: iphone 15 plus
+22:29:20.643 [main] INFO  - Performed search for keyword: iphone 15 plus
+22:29:28.437 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:21:48.800 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:22:32.549 [main] INFO  - Clicked on the Login link
+10:22:32.583 [main] INFO  - Login text retrieved: Login
+10:23:00.434 [main] INFO  - Performed search for keyword: laptop
+10:23:05.506 [main] INFO  - Cart icon present: true
+10:23:05.506 [main] INFO  - Is Cart Icon Present: true
+10:23:16.664 [main] INFO  - Flipkart logo present: true
+10:23:16.664 [main] INFO  - Is Flipkart Logo Present: true
+10:23:29.811 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+10:23:37.519 [main] INFO  - Clicked on the Login link
+10:23:37.623 [main] INFO  - Entered email: example@test.com
+10:23:37.678 [main] INFO  - Email input text retrieved: example@test.com
+10:25:02.751 [main] INFO  - Clicked on the Login link
+10:25:02.857 [main] INFO  - Clicked on the Signup link
+10:25:02.895 [main] INFO  - Signup text retrieved: Looks like you're new here!
+10:25:12.678 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:25:23.370 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:25:32.972 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:32:44.909 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+10:32:51.259 [main] INFO  - Clicked on the Grocery link
+10:32:51.281 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+10:33:00.099 [main] INFO  - Performed search for keyword: laptop
+10:33:08.200 [main] INFO  - Clicked on the Login link
+10:33:08.252 [main] INFO  - Login text retrieved: Login
+10:33:13.311 [main] INFO  - Cart icon present: true
+10:33:13.311 [main] INFO  - Is Cart Icon Present: true
+10:33:18.451 [main] INFO  - Flipkart logo present: true
+10:33:18.451 [main] INFO  - Is Flipkart Logo Present: true
+10:35:21.932 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:35:30.881 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:35:39.641 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:39:20.528 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:39:20.790 [main] INFO  - Clicked on the product link
+10:39:53.079 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:39:53.519 [main] INFO  - Clicked on the product link
+10:39:59.640 [main] INFO  - Attempting to find the price element.
+10:39:59.704 [main] INFO  - Price text found: ₹75,999
+10:39:59.705 [main] INFO  - Parsed price value: 75999
+10:40:07.817 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:40:08.140 [main] INFO  - Clicked on the product link
+10:40:12.584 [main] INFO  - Attempting to increase the quantity.
+10:40:12.767 [main] INFO  - Quantity increased by 1.
+10:40:14.774 [main] INFO  - Attempting to find the quantity text box.
+10:40:14.858 [main] INFO  - Quantity text found: 2
+10:40:27.476 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:40:27.832 [main] INFO  - Clicked on the product link
+10:40:32.855 [main] INFO  - Attempting to click remove link.
+10:40:33.065 [main] INFO  - Remove link clicked.
+10:40:33.065 [main] INFO  - Attempting to click remove button.
+10:40:35.336 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+10:42:20.703 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:42:20.944 [main] INFO  - Clicked on the product link
+10:42:25.734 [main] INFO  - Attempting to find the price element.
+10:42:25.821 [main] INFO  - Price text found: ₹75,999
+10:42:25.821 [main] INFO  - Parsed price value: 75999
+10:42:33.342 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:42:33.623 [main] INFO  - Clicked on the product link
+10:42:38.095 [main] INFO  - Attempting to increase the quantity.
+10:42:38.339 [main] INFO  - Quantity increased by 1.
+10:42:40.344 [main] INFO  - Attempting to find the quantity text box.
+10:42:40.414 [main] INFO  - Quantity text found: 2
+10:42:50.604 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:42:50.867 [main] INFO  - Clicked on the product link
+10:42:55.651 [main] INFO  - Attempting to click remove link.
+10:42:55.902 [main] INFO  - Remove link clicked.
+10:42:55.903 [main] INFO  - Attempting to click remove button.
+10:42:58.083 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+10:46:25.061 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+10:47:08.081 [main] INFO  - Performed search for keyword: laptop
+10:47:16.554 [main] INFO  - Clicked on the Login link
+10:47:16.603 [main] INFO  - Login text retrieved: Login
+10:47:24.844 [main] INFO  - Cart icon present: true
+10:47:24.844 [main] INFO  - Is Cart Icon Present: true
+10:47:31.764 [main] INFO  - Flipkart logo present: true
+10:47:31.764 [main] INFO  - Is Flipkart Logo Present: true
+10:47:42.014 [main] INFO  - Clicked on the Login link
+10:47:42.967 [main] INFO  - Entered email: example@test.com
+10:47:42.997 [main] INFO  - Email input text retrieved: example@test.com
+10:47:56.223 [main] INFO  - Clicked on the Login link
+10:47:56.326 [main] INFO  - Clicked on the Signup link
+10:47:56.365 [main] INFO  - Signup text retrieved: Looks like you're new here!
+10:48:09.813 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:48:10.023 [main] INFO  - Clicked on the product link
+10:48:33.018 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:48:33.595 [main] INFO  - Clicked on the product link
+10:48:39.392 [main] INFO  - Attempting to find the price element.
+10:48:39.481 [main] INFO  - Price text found: ₹75,999
+10:48:39.481 [main] INFO  - Parsed price value: 75999
+10:48:48.758 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:48:49.663 [main] INFO  - Clicked on the product link
+10:48:55.190 [main] INFO  - Attempting to increase the quantity.
+10:48:55.430 [main] INFO  - Quantity increased by 1.
+10:48:57.436 [main] INFO  - Attempting to find the quantity text box.
+10:48:57.543 [main] INFO  - Quantity text found: 2
+10:49:07.317 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:49:08.124 [main] INFO  - Clicked on the product link
+10:49:23.280 [main] INFO  - Attempting to click remove link.
+10:49:23.317 [main] ERROR - Failed to click the remove link.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'Remove')]"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8c69a4de3931ac158d09ab1316b0e392, findElement {value=//div[contains(text(),'Remove')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\ASHISH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60770}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60770/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c69a4de3931ac158d09ab1316b0e392
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349) ~[selenium-remote-driver-4.21.0.jar:?]
+	at pages.CartPage.clickRemoveLink(CartPage.java:70) ~[test-classes/:?]
+	at tests.CartPageTest.verifyRemoveProduct(CartPageTest.java:79) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+10:49:23.332 [main] INFO  - Attempting to click remove button.
+10:52:01.471 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+10:52:23.641 [main] INFO  - Performed search for keyword: laptop
+10:52:35.389 [main] INFO  - Clicked on the Login link
+10:52:35.433 [main] INFO  - Login text retrieved: Login
+10:52:50.557 [main] INFO  - Cart icon present: true
+10:52:50.557 [main] INFO  - Is Cart Icon Present: true
+10:52:56.774 [main] INFO  - Flipkart logo present: true
+10:52:56.774 [main] INFO  - Is Flipkart Logo Present: true
+11:18:21.324 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+11:18:37.435 [main] INFO  - Clicked on the Grocery link
+11:18:37.467 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+11:18:51.765 [main] INFO  - Performed search for keyword: laptop
+11:19:01.834 [main] INFO  - Clicked on the Login link
+11:19:01.903 [main] INFO  - Login text retrieved: Login
+11:19:07.709 [main] INFO  - Cart icon present: true
+11:19:07.709 [main] INFO  - Is Cart Icon Present: true
+11:19:13.324 [main] INFO  - Flipkart logo present: true
+11:19:13.325 [main] INFO  - Is Flipkart Logo Present: true
+13:14:43.391 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:14:43.670 [main] INFO  - Clicked on the product link
+13:14:47.178 [main] INFO  - Attempting to find the price element.
+13:14:47.250 [main] INFO  - Price text found: ₹75,999
+13:14:47.250 [main] INFO  - Parsed price value: 75999
+13:14:53.074 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:14:53.276 [main] INFO  - Clicked on the product link
+13:14:57.064 [main] INFO  - Attempting to increase the quantity.
+13:14:57.285 [main] INFO  - Quantity increased by 1.
+13:14:59.289 [main] INFO  - Attempting to find the quantity text box.
+13:14:59.359 [main] INFO  - Quantity text found: 2
+13:15:05.103 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:15:05.372 [main] INFO  - Clicked on the product link
+13:15:09.103 [main] INFO  - Attempting to click remove link.
+13:15:09.287 [main] INFO  - Remove link clicked.
+13:15:09.287 [main] INFO  - Attempting to click remove button.
+13:15:11.445 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+13:34:38.505 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:34:38.624 [main] INFO  - Clicked on the product link
+13:34:42.549 [main] INFO  - Attempting to find the price element.
+13:34:42.603 [main] INFO  - Price text found: ₹75,999
+13:34:42.604 [main] INFO  - Parsed price value: 75999
+13:34:48.886 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:34:49.276 [main] INFO  - Clicked on the product link
+13:34:53.473 [main] INFO  - Attempting to increase the quantity.
+13:34:53.652 [main] INFO  - Quantity increased by 1.
+13:34:55.657 [main] INFO  - Attempting to find the quantity text box.
+13:34:55.737 [main] INFO  - Quantity text found: 2
+13:35:02.724 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:35:02.996 [main] INFO  - Clicked on the product link
+13:35:07.062 [main] INFO  - Attempting to click remove link.
+13:35:07.276 [main] INFO  - Remove link clicked.
+13:35:07.276 [main] INFO  - Attempting to click remove button.
+13:35:09.404 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+13:37:20.791 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:37:20.907 [main] INFO  - Clicked on the product link
+13:37:24.802 [main] INFO  - Attempting to find the price element.
+13:37:24.835 [main] INFO  - Price text found: ₹75,999
+13:37:24.835 [main] INFO  - Parsed price value: 75999
+13:37:32.146 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:37:32.309 [main] INFO  - Clicked on the product link
+13:37:36.472 [main] INFO  - Attempting to increase the quantity.
+13:37:36.679 [main] INFO  - Quantity increased by 1.
+13:37:38.689 [main] INFO  - Attempting to find the quantity text box.
+13:37:38.741 [main] INFO  - Quantity text found: 2
+13:37:44.492 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:37:44.634 [main] INFO  - Clicked on the product link
+13:37:54.122 [main] INFO  - Attempting to click remove link.
+13:37:55.348 [main] INFO  - Remove link clicked.
+13:37:55.348 [main] INFO  - Attempting to click remove button.
+13:37:57.546 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+13:40:44.281 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:40:44.412 [main] INFO  - Clicked on the product link
+13:40:48.255 [main] INFO  - Attempting to find the price element.
+13:40:48.286 [main] INFO  - Price text found: ₹75,999
+13:40:48.286 [main] INFO  - Parsed price value: 75999
+13:40:57.454 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:40:57.581 [main] INFO  - Clicked on the product link
+13:41:01.497 [main] INFO  - Attempting to increase the quantity.
+13:41:01.789 [main] INFO  - Quantity increased by 1.
+13:41:03.800 [main] INFO  - Attempting to find the quantity text box.
+13:41:03.855 [main] INFO  - Quantity text found: 2
+13:41:10.077 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:41:10.207 [main] INFO  - Clicked on the product link
+13:41:14.274 [main] INFO  - Attempting to click remove link.
+13:41:14.432 [main] INFO  - Remove link clicked.
+13:41:14.432 [main] INFO  - Attempting to click remove button.
+13:41:16.540 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+13:42:40.914 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:42:41.044 [main] INFO  - Clicked on the product link
+13:42:44.670 [main] INFO  - Attempting to find the price element.
+13:42:44.813 [main] INFO  - Price text found: ₹75,999
+13:42:44.813 [main] INFO  - Parsed price value: 75999
+13:42:51.382 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:42:51.521 [main] INFO  - Clicked on the product link
+13:42:55.396 [main] INFO  - Attempting to increase the quantity.
+13:42:55.605 [main] INFO  - Quantity increased by 1.
+13:42:57.614 [main] INFO  - Attempting to find the quantity text box.
+13:42:57.666 [main] INFO  - Quantity text found: 2
+13:43:02.792 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:43:02.920 [main] INFO  - Clicked on the product link
+13:43:06.921 [main] INFO  - Attempting to click remove link.
+13:43:07.130 [main] INFO  - Remove link clicked.
+13:43:07.130 [main] INFO  - Attempting to click remove button.
+13:43:09.269 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+13:43:40.778 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:43:40.895 [main] INFO  - Clicked on the product link
+13:43:44.756 [main] INFO  - Attempting to find the price element.
+13:43:44.805 [main] INFO  - Price text found: ₹75,999
+13:43:44.805 [main] INFO  - Parsed price value: 75999
+13:43:49.931 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:43:50.057 [main] INFO  - Clicked on the product link
+13:43:53.870 [main] INFO  - Attempting to increase the quantity.
+13:43:54.100 [main] INFO  - Quantity increased by 1.
+13:43:56.112 [main] INFO  - Attempting to find the quantity text box.
+13:43:56.174 [main] INFO  - Quantity text found: 2
+13:44:01.079 [main] INFO  - Performed search for keyword: iphone 15 plus
+13:44:01.210 [main] INFO  - Clicked on the product link
+13:44:05.123 [main] INFO  - Attempting to click remove link.
+13:44:05.317 [main] INFO  - Remove link clicked.
+13:44:05.317 [main] INFO  - Attempting to click remove button.
+13:44:07.462 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+18:25:58.821 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+18:26:07.407 [main] INFO  - Clicked on the Grocery link
+18:26:07.458 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+18:26:13.339 [main] INFO  - Clicked on the Login link
+18:26:13.419 [main] INFO  - Login text retrieved: Login
+18:26:16.518 [main] INFO  - Cart icon present: true
+18:26:16.518 [main] INFO  - Is Cart Icon Present: true
+18:26:20.314 [main] INFO  - Flipkart logo present: true
+18:26:20.314 [main] INFO  - Is Flipkart Logo Present: true
+18:28:10.425 [main] INFO  - Performed search for keyword: ipnone 15 plus
+18:32:15.261 [main] INFO  - Performed search for keyword: laptop
+18:33:45.937 [main] INFO  - Performed search for keyword: laptop
+18:34:11.145 [main] INFO  - Performed search for keyword: iphone
+18:44:09.883 [main] INFO  - Clicked on the Login link
+18:44:10.421 [main] INFO  - Entered email: exampletest@test.com
+18:44:10.470 [main] INFO  - Email input text retrieved: exampletest@test.com
+18:44:16.955 [main] INFO  - Clicked on the Login link
+18:44:17.175 [main] INFO  - Entered email: admin@admin.com
+18:44:17.212 [main] INFO  - Email input text retrieved: admin@admin.com
+18:44:37.907 [main] INFO  - Clicked on the Login link
+18:44:38.912 [main] INFO  - Entered email: admin@admin.com
+18:44:38.961 [main] INFO  - Email input text retrieved: admin@admin.com
+18:44:43.301 [main] INFO  - Clicked on the Login link
+18:44:44.287 [main] INFO  - Clicked on the Signup link
+18:44:44.325 [main] INFO  - Signup text retrieved: Looks like you're new here!
+18:45:57.412 [main] INFO  - Clicked on the Login link
+18:45:57.757 [main] INFO  - Entered email: admin@admin.com
+18:45:57.788 [main] INFO  - Email input text retrieved: admin@admin.com
+18:46:10.019 [main] INFO  - Clicked on the Login link
+18:46:10.234 [main] INFO  - Entered email: admin@admin.com
+18:46:10.268 [main] INFO  - Email input text retrieved: admin@admin.com
+19:02:23.726 [main] INFO  - Performed search for keyword: iphone 15 plus
+19:02:23.880 [main] INFO  - Clicked on the product link
+19:02:33.885 [main] INFO  - Attempting to find the price element.
+19:02:33.939 [main] INFO  - Price text found: ₹75,999
+19:02:33.939 [main] INFO  - Parsed price value: 75999
+20:04:45.225 [main] INFO  - Clicked on the Grocery link
+20:04:45.245 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+20:04:51.677 [main] INFO  - Performed search for keyword: laptop
+20:04:58.623 [main] INFO  - Performed search for keyword: iphone
+20:05:03.057 [main] INFO  - Clicked on the Login link
+20:05:03.300 [main] INFO  - Login text retrieved: Login
+20:05:07.215 [main] INFO  - Cart icon present: true
+20:05:07.215 [main] INFO  - Is Cart Icon Present: true
+20:05:10.263 [main] INFO  - Flipkart logo present: true
+20:05:10.263 [main] INFO  - Is Flipkart Logo Present: true
+20:21:39.438 [main] INFO  - Clicked on the Grocery link
+20:21:39.465 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+20:21:45.154 [main] INFO  - Performed search for keyword: laptop
+20:21:51.539 [main] INFO  - Performed search for keyword: iphone
+20:21:55.399 [main] INFO  - Clicked on the Login link
+20:21:55.439 [main] INFO  - Login text retrieved: Login
+20:21:58.677 [main] INFO  - Cart icon present: true
+20:21:58.677 [main] INFO  - Is Cart Icon Present: true
+20:22:02.148 [main] INFO  - Flipkart logo present: true
+20:22:02.148 [main] INFO  - Is Flipkart Logo Present: true
+20:22:06.983 [main] INFO  - Clicked on the Login link
+20:22:07.169 [main] INFO  - Entered email: admin@admin.com
+20:22:07.194 [main] INFO  - Email input text retrieved: admin@admin.com
+20:22:10.877 [main] INFO  - Clicked on the Login link
+20:22:11.680 [main] INFO  - Clicked on the Signup link
+20:22:11.710 [main] INFO  - Signup text retrieved: Looks like you're new here!
+20:22:17.485 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:22:17.639 [main] INFO  - Clicked on the product link
+20:22:26.444 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:22:26.568 [main] INFO  - Clicked on the product link
+20:22:30.651 [main] INFO  - Attempting to find the price element.
+20:22:30.682 [main] INFO  - Price text found: ₹75,999
+20:22:30.682 [main] INFO  - Parsed price value: 75999
+20:22:36.165 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:22:36.305 [main] INFO  - Clicked on the product link
+20:22:40.179 [main] INFO  - Attempting to increase the quantity.
+20:22:40.415 [main] INFO  - Quantity increased by 1.
+20:22:42.420 [main] INFO  - Attempting to find the quantity text box.
+20:22:42.474 [main] INFO  - Quantity text found: 2
+20:22:47.286 [main] INFO  - Performed search for keyword: iphone 15 plus
+20:22:47.413 [main] INFO  - Clicked on the product link
+20:22:51.209 [main] INFO  - Attempting to click remove link.
+20:22:51.437 [main] INFO  - Remove link clicked.
+20:22:51.437 [main] INFO  - Attempting to click remove button.
+20:22:53.572 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+21:20:10.727 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:20:10.892 [main] INFO  - Clicked on the product link
+21:20:14.734 [main] INFO  - Attempting to find the price element.
+21:20:14.781 [main] INFO  - Price text found: ₹75,999
+21:20:14.781 [main] INFO  - Parsed price value: 75999
+21:21:11.882 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:21:11.971 [main] INFO  - Clicked on the product link
+21:21:16.000 [main] INFO  - Attempting to find the price element.
+21:21:16.045 [main] INFO  - Price text found: ₹75,999
+21:21:16.045 [main] INFO  - Parsed price value: 75999
+21:21:50.835 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:21:50.921 [main] INFO  - Clicked on the product link
+21:21:54.941 [main] INFO  - Attempting to find the price element.
+21:21:54.996 [main] INFO  - Price text found: ₹75,999
+21:21:54.997 [main] INFO  - Parsed price value: 75999
+21:22:27.555 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:22:27.668 [main] INFO  - Clicked on the product link
+21:22:31.590 [main] INFO  - Attempting to find the price element.
+21:22:31.674 [main] INFO  - Price text found: ₹75,999
+21:22:31.674 [main] INFO  - Parsed price value: 75999
+21:22:55.432 [main] INFO  - Clicked on the Grocery link
+21:22:55.464 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+21:23:01.420 [main] INFO  - Performed search for keyword: laptop
+21:23:06.214 [main] INFO  - Performed search for keyword: iphone
+21:23:10.669 [main] INFO  - Clicked on the Login link
+21:23:10.930 [main] INFO  - Login text retrieved: Login
+21:23:13.829 [main] INFO  - Cart icon present: true
+21:23:13.829 [main] INFO  - Is Cart Icon Present: true
+21:23:16.855 [main] INFO  - Flipkart logo present: true
+21:23:16.856 [main] INFO  - Is Flipkart Logo Present: true
+21:23:21.502 [main] INFO  - Clicked on the Login link
+21:23:21.706 [main] INFO  - Entered email: admin@admin.com
+21:23:21.731 [main] INFO  - Email input text retrieved: admin@admin.com
+21:23:26.281 [main] INFO  - Clicked on the Login link
+21:23:26.379 [main] INFO  - Clicked on the Signup link
+21:23:26.410 [main] INFO  - Signup text retrieved: Looks like you're new here!
+21:23:31.406 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:23:31.947 [main] INFO  - Clicked on the product link
+21:23:40.841 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:23:40.955 [main] INFO  - Clicked on the product link
+21:23:44.924 [main] INFO  - Attempting to find the price element.
+21:23:44.976 [main] INFO  - Price text found: ₹75,999
+21:23:44.976 [main] INFO  - Parsed price value: 75999
+21:23:49.728 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:23:49.859 [main] INFO  - Clicked on the product link
+21:23:53.806 [main] INFO  - Attempting to increase the quantity.
+21:23:54.003 [main] INFO  - Quantity increased by 1.
+21:23:56.005 [main] INFO  - Attempting to find the quantity text box.
+21:23:56.025 [main] INFO  - Quantity text found: 2
+21:24:00.793 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:24:00.907 [main] INFO  - Clicked on the product link
+21:24:04.881 [main] INFO  - Attempting to click remove link.
+21:24:05.094 [main] INFO  - Remove link clicked.
+21:24:05.094 [main] INFO  - Attempting to click remove button.
+21:24:07.247 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+21:26:06.677 [main] INFO  - Clicked on the Grocery link
+21:26:06.707 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+21:27:16.818 [main] INFO  - Clicked on the Grocery link
+21:27:16.846 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+21:29:32.977 [main] INFO  - Clicked on the Grocery link
+21:29:33.024 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+21:30:12.298 [main] INFO  - Clicked on the Grocery link
+21:30:12.331 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+21:30:18.902 [main] INFO  - Performed search for keyword: laptop
+21:30:23.941 [main] INFO  - Performed search for keyword: iphone
+21:30:28.828 [main] INFO  - Clicked on the Login link
+21:30:28.877 [main] INFO  - Login text retrieved: Login
+21:30:31.600 [main] INFO  - Cart icon present: true
+21:30:31.600 [main] INFO  - Is Cart Icon Present: true
+21:30:34.522 [main] INFO  - Flipkart logo present: true
+21:30:34.522 [main] INFO  - Is Flipkart Logo Present: true
+21:30:38.567 [main] INFO  - Clicked on the Login link
+21:30:38.991 [main] INFO  - Entered email: admin@admin.com
+21:30:39.015 [main] INFO  - Email input text retrieved: admin@admin.com
+21:30:43.382 [main] INFO  - Clicked on the Login link
+21:30:43.458 [main] INFO  - Clicked on the Signup link
+21:30:43.490 [main] INFO  - Signup text retrieved: Looks like you're new here!
+21:30:48.244 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:30:48.364 [main] INFO  - Clicked on the product link
+21:30:57.100 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:30:57.218 [main] INFO  - Clicked on the product link
+21:31:01.262 [main] INFO  - Attempting to find the price element.
+21:31:01.343 [main] INFO  - Price text found: ₹75,999
+21:31:01.343 [main] INFO  - Parsed price value: 75999
+21:31:09.646 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:31:09.840 [main] INFO  - Clicked on the product link
+21:31:14.373 [main] INFO  - Attempting to increase the quantity.
+21:31:14.577 [main] INFO  - Quantity increased by 1.
+21:31:16.587 [main] INFO  - Attempting to find the quantity text box.
+21:31:16.652 [main] INFO  - Quantity text found: 2
+21:31:22.467 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:31:22.686 [main] INFO  - Clicked on the product link
+21:31:28.792 [main] INFO  - Attempting to click remove link.
+21:31:29.007 [main] INFO  - Remove link clicked.
+21:31:29.007 [main] INFO  - Attempting to click remove button.
+21:31:31.143 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+21:36:19.073 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:36:19.206 [main] INFO  - Clicked on the product link
+21:36:48.544 [main] INFO  - Clicked on the Login link
+21:36:48.657 [main] INFO  - Entered email: admin@admin.com
+21:36:48.702 [main] INFO  - Email input text retrieved: admin@admin.com
+21:36:56.384 [main] INFO  - Clicked on the Login link
+21:36:56.509 [main] INFO  - Clicked on the Signup link
+21:36:56.544 [main] INFO  - Signup text retrieved: Looks like you're new here!
+21:37:22.074 [main] INFO  - Clicked on the Grocery link
+21:37:22.142 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+21:37:38.076 [main] INFO  - Performed search for keyword: laptop
+21:37:45.024 [main] INFO  - Performed search for keyword: iphone
+21:37:52.408 [main] INFO  - Clicked on the Login link
+21:37:52.447 [main] INFO  - Login text retrieved: Login
+21:37:58.910 [main] INFO  - Cart icon present: true
+21:37:58.910 [main] INFO  - Is Cart Icon Present: true
+21:38:03.049 [main] INFO  - Flipkart logo present: true
+21:38:03.049 [main] INFO  - Is Flipkart Logo Present: true
+21:41:51.936 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+21:42:20.060 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+21:42:28.169 [main] INFO  - Clicked on the Grocery link
+21:42:28.199 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+21:42:37.566 [main] INFO  - Performed search for keyword: laptop
+21:42:45.828 [main] INFO  - Performed search for keyword: iphone
+21:42:52.212 [main] INFO  - Clicked on the Login link
+21:42:52.237 [main] INFO  - Login text retrieved: Login
+21:42:57.209 [main] INFO  - Cart icon present: true
+21:42:57.209 [main] INFO  - Is Cart Icon Present: true
+21:43:02.964 [main] INFO  - Flipkart logo present: true
+21:43:02.964 [main] INFO  - Is Flipkart Logo Present: true
+21:43:09.629 [main] INFO  - Clicked on the Login link
+21:43:09.730 [main] INFO  - Entered email: admin@admin.com
+21:43:09.760 [main] INFO  - Email input text retrieved: admin@admin.com
+21:43:15.011 [main] INFO  - Clicked on the Login link
+21:43:15.096 [main] INFO  - Clicked on the Signup link
+21:43:15.127 [main] INFO  - Signup text retrieved: Looks like you're new here!
+21:43:22.456 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:43:22.629 [main] INFO  - Clicked on the product link
+21:43:37.603 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:43:37.722 [main] INFO  - Clicked on the product link
+21:43:42.328 [main] INFO  - Attempting to find the price element.
+21:43:42.399 [main] INFO  - Price text found: ₹75,999
+21:43:42.399 [main] INFO  - Parsed price value: 75999
+21:43:50.307 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:43:50.567 [main] INFO  - Clicked on the product link
+21:43:54.618 [main] INFO  - Attempting to increase the quantity.
+21:43:54.829 [main] INFO  - Quantity increased by 1.
+21:43:56.840 [main] INFO  - Attempting to find the quantity text box.
+21:43:56.873 [main] INFO  - Quantity text found: 2
+21:44:04.476 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:44:04.740 [main] INFO  - Clicked on the product link
+21:44:09.388 [main] INFO  - Attempting to click remove link.
+21:44:09.605 [main] INFO  - Remove link clicked.
+21:44:09.607 [main] INFO  - Attempting to click remove button.
+21:44:11.740 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+21:46:55.285 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+21:47:02.471 [main] INFO  - Clicked on the Grocery link
+21:47:07.493 [main] INFO  - Clicked on the Login link
+21:47:07.598 [main] INFO  - Entered email: admin@admin.com
+21:47:07.626 [main] INFO  - Email input text retrieved: admin@admin.com
+21:47:14.368 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:47:14.492 [main] INFO  - Clicked on the product link
+21:47:25.141 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:47:25.254 [main] INFO  - Clicked on the product link
+21:47:29.387 [main] INFO  - Attempting to find the price element.
+21:47:29.449 [main] INFO  - Price text found: ₹75,999
+21:47:29.449 [main] INFO  - Parsed price value: 75999
+21:47:34.492 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:47:34.612 [main] INFO  - Clicked on the product link
+21:47:38.562 [main] INFO  - Attempting to increase the quantity.
+21:47:38.771 [main] INFO  - Quantity increased by 1.
+21:47:40.773 [main] INFO  - Attempting to find the quantity text box.
+21:47:40.819 [main] INFO  - Quantity text found: 2
+21:47:46.562 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:47:46.838 [main] INFO  - Clicked on the product link
+21:47:50.603 [main] INFO  - Attempting to click remove link.
+21:47:50.771 [main] INFO  - Remove link clicked.
+21:47:50.771 [main] INFO  - Attempting to click remove button.
+21:47:52.914 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+21:49:28.757 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+21:49:35.671 [main] INFO  - Clicked on the Grocery link
+21:49:35.690 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+21:49:40.960 [main] INFO  - Performed search for keyword: laptop
+21:49:45.902 [main] INFO  - Performed search for keyword: iphone
+21:49:50.789 [main] INFO  - Clicked on the Login link
+21:49:50.840 [main] INFO  - Login text retrieved: Login
+21:49:53.526 [main] INFO  - Cart icon present: true
+21:49:53.527 [main] INFO  - Is Cart Icon Present: true
+21:49:56.382 [main] INFO  - Flipkart logo present: true
+21:49:56.382 [main] INFO  - Is Flipkart Logo Present: true
+21:50:00.812 [main] INFO  - Clicked on the Login link
+21:50:00.899 [main] INFO  - Entered email: admin@admin.com
+21:50:00.925 [main] INFO  - Email input text retrieved: admin@admin.com
+21:50:05.356 [main] INFO  - Clicked on the Login link
+21:50:05.548 [main] INFO  - Clicked on the Signup link
+21:50:05.580 [main] INFO  - Signup text retrieved: Looks like you're new here!
+21:50:10.407 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:50:10.539 [main] INFO  - Clicked on the product link
+21:50:19.176 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:50:19.305 [main] INFO  - Clicked on the product link
+21:50:23.174 [main] INFO  - Attempting to find the price element.
+21:50:23.245 [main] INFO  - Price text found: ₹75,999
+21:50:23.245 [main] INFO  - Parsed price value: 75999
+21:50:27.947 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:50:28.074 [main] INFO  - Clicked on the product link
+21:50:31.889 [main] INFO  - Attempting to increase the quantity.
+21:50:32.115 [main] INFO  - Quantity increased by 1.
+21:50:34.127 [main] INFO  - Attempting to find the quantity text box.
+21:50:34.163 [main] INFO  - Quantity text found: 2
+21:50:38.995 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:50:39.114 [main] INFO  - Clicked on the product link
+21:50:42.919 [main] INFO  - Attempting to click remove link.
+21:50:43.160 [main] INFO  - Remove link clicked.
+21:50:43.160 [main] INFO  - Attempting to click remove button.
+21:50:45.300 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+21:57:58.130 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+21:58:05.521 [main] INFO  - Clicked on the Grocery link
+21:58:05.558 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+21:58:11.476 [main] INFO  - Performed search for keyword: laptop
+21:58:16.684 [main] INFO  - Performed search for keyword: iphone
+21:58:21.591 [main] INFO  - Clicked on the Login link
+21:58:21.777 [main] INFO  - Login text retrieved: Login
+21:58:24.795 [main] INFO  - Cart icon present: true
+21:58:24.795 [main] INFO  - Is Cart Icon Present: true
+21:58:27.992 [main] INFO  - Flipkart logo present: true
+21:58:27.992 [main] INFO  - Is Flipkart Logo Present: true
+21:58:32.591 [main] INFO  - Clicked on the Login link
+21:58:32.685 [main] INFO  - Entered email: admin@admin.com
+21:58:32.710 [main] INFO  - Email input text retrieved: admin@admin.com
+21:58:37.816 [main] INFO  - Clicked on the Login link
+21:58:37.898 [main] INFO  - Clicked on the Signup link
+21:58:37.929 [main] INFO  - Signup text retrieved: Looks like you're new here!
+21:58:43.977 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:58:44.473 [main] INFO  - Clicked on the product link
+21:58:53.663 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:58:53.789 [main] INFO  - Clicked on the product link
+21:58:57.970 [main] INFO  - Attempting to find the price element.
+21:58:58.016 [main] INFO  - Price text found: ₹75,999
+21:58:58.016 [main] INFO  - Parsed price value: 75999
+21:59:03.133 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:59:03.276 [main] INFO  - Clicked on the product link
+21:59:07.314 [main] INFO  - Attempting to increase the quantity.
+21:59:07.511 [main] INFO  - Quantity increased by 1.
+21:59:09.527 [main] INFO  - Attempting to find the quantity text box.
+21:59:09.594 [main] INFO  - Quantity text found: 2
+21:59:14.513 [main] INFO  - Performed search for keyword: iphone 15 plus
+21:59:14.641 [main] INFO  - Clicked on the product link
+21:59:18.472 [main] INFO  - Attempting to click remove link.
+21:59:18.689 [main] INFO  - Remove link clicked.
+21:59:18.690 [main] INFO  - Attempting to click remove button.
+21:59:20.828 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+09:35:09.115 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+09:35:17.594 [main] INFO  - Clicked on the Grocery link
+09:35:17.625 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+09:35:23.809 [main] INFO  - Performed search for keyword: laptop
+09:35:30.264 [main] INFO  - Performed search for keyword: iphone
+09:35:35.114 [main] INFO  - Clicked on the Login link
+09:35:35.167 [main] INFO  - Login text retrieved: Login
+09:35:40.157 [main] INFO  - Cart icon present: true
+09:35:40.157 [main] INFO  - Is Cart Icon Present: true
+09:35:43.506 [main] INFO  - Flipkart logo present: true
+09:35:43.506 [main] INFO  - Is Flipkart Logo Present: true
+09:35:48.642 [main] INFO  - Clicked on the Login link
+09:35:49.116 [main] INFO  - Entered email: admin@admin.com
+09:35:49.147 [main] INFO  - Email input text retrieved: admin@admin.com
+09:35:54.405 [main] INFO  - Clicked on the Login link
+09:35:54.546 [main] INFO  - Clicked on the Signup link
+09:35:54.593 [main] INFO  - Signup text retrieved: Looks like you're new here!
+09:36:01.080 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:36:01.410 [main] INFO  - Clicked on the product link
+09:36:11.237 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:36:11.431 [main] INFO  - Clicked on the product link
+09:36:15.819 [main] INFO  - Attempting to find the price element.
+09:36:15.879 [main] INFO  - Price text found: ₹75,999
+09:36:15.879 [main] INFO  - Parsed price value: 75999
+09:36:21.913 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:36:22.074 [main] INFO  - Clicked on the product link
+09:36:26.430 [main] INFO  - Attempting to increase the quantity.
+09:36:26.603 [main] INFO  - Quantity increased by 1.
+09:36:28.607 [main] INFO  - Attempting to find the quantity text box.
+09:36:28.644 [main] INFO  - Quantity text found: 2
+09:36:40.181 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:36:40.377 [main] INFO  - Clicked on the product link
+09:36:44.905 [main] INFO  - Attempting to click remove link.
+09:36:45.113 [main] INFO  - Remove link clicked.
+09:36:45.113 [main] INFO  - Attempting to click remove button.
+09:36:47.295 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+09:44:51.678 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+09:45:37.067 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+09:46:25.908 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+09:46:33.217 [main] INFO  - Clicked on the Grocery link
+09:46:33.244 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+09:46:43.067 [main] INFO  - Performed search for keyword: laptop
+09:46:49.850 [main] INFO  - Performed search for keyword: iphone
+09:46:56.748 [main] INFO  - Clicked on the Login link
+09:46:56.876 [main] INFO  - Login text retrieved: Login
+09:47:01.983 [main] INFO  - Cart icon present: true
+09:47:01.983 [main] INFO  - Is Cart Icon Present: true
+09:47:08.036 [main] INFO  - Flipkart logo present: true
+09:47:08.036 [main] INFO  - Is Flipkart Logo Present: true
+09:47:13.123 [main] INFO  - Clicked on the Login link
+09:47:13.239 [main] INFO  - Entered email: admin@admin.com
+09:47:13.270 [main] INFO  - Email input text retrieved: admin@admin.com
+09:47:18.247 [main] INFO  - Clicked on the Login link
+09:47:18.352 [main] INFO  - Clicked on the Signup link
+09:47:18.400 [main] INFO  - Signup text retrieved: Looks like you're new here!
+09:47:23.863 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:47:24.071 [main] INFO  - Clicked on the product link
+09:47:34.510 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:47:35.055 [main] INFO  - Clicked on the product link
+09:47:39.246 [main] INFO  - Attempting to find the price element.
+09:47:39.321 [main] INFO  - Price text found: ₹75,999
+09:47:39.321 [main] INFO  - Parsed price value: 75999
+09:47:56.805 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:47:57.023 [main] INFO  - Clicked on the product link
+09:48:06.215 [main] INFO  - Attempting to increase the quantity.
+09:48:06.421 [main] INFO  - Quantity increased by 1.
+09:48:08.431 [main] INFO  - Attempting to find the quantity text box.
+09:48:08.489 [main] INFO  - Quantity text found: 2
+09:48:13.863 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:48:14.060 [main] INFO  - Clicked on the product link
+09:48:18.342 [main] INFO  - Attempting to click remove link.
+09:48:18.560 [main] INFO  - Remove link clicked.
+09:48:18.560 [main] INFO  - Attempting to click remove button.
+09:48:20.752 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+09:50:57.221 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+09:58:29.286 [main] INFO  - Performed search for keyword: iphone 15 plus
+09:58:29.503 [main] INFO  - Clicked on the product link
+09:58:33.752 [main] INFO  - Attempting to increase the quantity.
+09:58:34.012 [main] INFO  - Quantity increased by 1.
+09:58:36.019 [main] INFO  - Attempting to find the quantity text box.
+09:58:36.120 [main] INFO  - Quantity text found: 2
+10:01:28.737 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:01:28.867 [main] INFO  - Clicked on the product link
+10:01:33.085 [main] INFO  - Attempting to increase the quantity.
+10:01:33.347 [main] INFO  - Quantity increased by 1.
+10:01:35.358 [main] INFO  - Attempting to find the quantity text box.
+10:01:35.419 [main] INFO  - Quantity text found: 2
+10:06:12.647 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:06:12.801 [main] INFO  - Clicked on the product link
+10:06:17.047 [main] INFO  - Attempting to find the price element.
+10:06:17.158 [main] INFO  - Price text found: ₹75,999
+10:06:17.158 [main] INFO  - Parsed price value: 75999
+10:22:54.587 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:22:54.772 [main] INFO  - Clicked on the product link
+10:22:59.090 [main] INFO  - Attempting to find the price element.
+10:22:59.185 [main] INFO  - Price text found: ₹75,999
+10:22:59.185 [main] INFO  - Parsed price value: 75999
+10:23:26.089 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:23:26.187 [main] INFO  - Clicked on the product link
+10:23:30.392 [main] INFO  - Attempting to find the price element.
+10:23:30.475 [main] INFO  - Price text found: ₹75,999
+10:23:30.477 [main] INFO  - Parsed price value: 75999
+10:26:18.505 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+10:26:28.432 [main] INFO  - Clicked on the Grocery link
+10:26:28.588 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+10:26:36.706 [main] INFO  - Performed search for keyword: laptop
+10:26:43.601 [main] INFO  - Performed search for keyword: iphone
+10:26:49.120 [main] INFO  - Clicked on the Login link
+10:26:50.529 [main] INFO  - Login text retrieved: Login
+10:26:54.209 [main] INFO  - Cart icon present: true
+10:26:54.209 [main] INFO  - Is Cart Icon Present: true
+10:26:58.885 [main] INFO  - Flipkart logo present: true
+10:26:58.885 [main] INFO  - Is Flipkart Logo Present: true
+10:27:05.935 [main] INFO  - Clicked on the Login link
+10:27:06.160 [main] INFO  - Entered email: admin@admin.com
+10:27:06.218 [main] INFO  - Email input text retrieved: admin@admin.com
+10:27:12.907 [main] INFO  - Clicked on the Login link
+10:27:13.110 [main] INFO  - Clicked on the Signup link
+10:27:13.170 [main] INFO  - Signup text retrieved: Looks like you're new here!
+10:27:20.125 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:27:20.337 [main] INFO  - Clicked on the product link
+10:27:31.738 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:27:32.438 [main] INFO  - Clicked on the product link
+10:27:37.120 [main] INFO  - Attempting to find the price element.
+10:27:37.181 [main] INFO  - Price text found: ₹75,999
+10:27:37.182 [main] INFO  - Parsed price value: 75999
+10:27:43.734 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:27:43.975 [main] INFO  - Clicked on the product link
+10:27:48.145 [main] INFO  - Attempting to increase the quantity.
+10:27:48.377 [main] INFO  - Quantity increased by 1.
+10:27:50.380 [main] INFO  - Attempting to find the quantity text box.
+10:27:50.454 [main] INFO  - Quantity text found: 2
+10:27:57.314 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:27:57.485 [main] INFO  - Clicked on the product link
+10:28:01.630 [main] INFO  - Attempting to click remove link.
+10:28:01.859 [main] INFO  - Remove link clicked.
+10:28:01.860 [main] INFO  - Attempting to click remove button.
+10:28:04.035 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+10:32:26.055 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:32:26.212 [main] INFO  - Clicked on the product link
+10:32:30.409 [main] INFO  - Attempting to find the price element.
+10:32:30.475 [main] ERROR - Price element not found or could not parse the price. Returning 0.
+10:33:16.598 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:33:17.617 [main] INFO  - Clicked on the product link
+10:33:21.596 [main] INFO  - Attempting to find the price element.
+10:33:21.675 [main] INFO  - Price text found: ₹75,999
+10:33:21.676 [main] INFO  - Parsed price value: 75999
+10:48:11.217 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:48:12.116 [main] INFO  - Clicked on the product link
+10:48:16.263 [main] INFO  - Attempting to find the price element.
+10:48:16.352 [main] INFO  - Price text found: ?75,999
+10:48:16.352 [main] INFO  - Parsed price value: 75999
+10:48:23.517 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:48:24.613 [main] INFO  - Clicked on the product link
+10:48:28.885 [main] INFO  - Attempting to increase the quantity.
+10:48:29.122 [main] INFO  - Quantity increased by 1.
+10:48:31.134 [main] INFO  - Attempting to find the quantity text box.
+10:48:31.216 [main] INFO  - Quantity text found: 2
+10:48:37.549 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:48:37.651 [main] INFO  - Clicked on the product link
+10:48:41.756 [main] INFO  - Attempting to click remove link.
+10:48:42.000 [main] INFO  - Remove link clicked.
+10:48:42.000 [main] INFO  - Attempting to click remove button.
+10:48:44.216 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
+10:49:35.879 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+10:49:43.833 [main] INFO  - Clicked on the Grocery link
+10:49:43.848 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+10:49:50.263 [main] INFO  - Performed search for keyword: laptop
+10:49:56.596 [main] INFO  - Performed search for keyword: iphone
+10:50:01.434 [main] INFO  - Clicked on the Login link
+10:50:03.111 [main] INFO  - Login text retrieved: Login
+10:50:07.285 [main] INFO  - Cart icon present: true
+10:50:07.285 [main] INFO  - Is Cart Icon Present: true
+10:50:11.587 [main] INFO  - Flipkart logo present: true
+10:50:11.587 [main] INFO  - Is Flipkart Logo Present: true
+10:50:16.541 [main] INFO  - Clicked on the Login link
+10:50:17.580 [main] INFO  - Entered email: admin@admin.com
+10:50:17.613 [main] INFO  - Email input text retrieved: admin@admin.com
+10:50:22.560 [main] INFO  - Clicked on the Login link
+10:50:23.636 [main] INFO  - Clicked on the Signup link
+10:50:23.671 [main] INFO  - Signup text retrieved: Looks like you're new here!
+10:50:29.812 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:50:29.925 [main] INFO  - Clicked on the product link
+10:51:52.978 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:51:53.118 [main] INFO  - Clicked on the product link
+10:51:57.351 [main] INFO  - Attempting to find the price element.
+10:51:57.464 [main] INFO  - Price text found: ?75,999
+10:51:57.464 [main] INFO  - Parsed price value: 75999
+10:52:04.140 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:52:04.331 [main] INFO  - Clicked on the product link
+10:52:08.469 [main] INFO  - Attempting to increase the quantity.
+10:52:08.672 [main] INFO  - Quantity increased by 1.
+10:52:10.684 [main] INFO  - Attempting to find the quantity text box.
+10:52:10.804 [main] INFO  - Quantity text found: 2
+10:52:17.622 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:52:17.807 [main] INFO  - Clicked on the product link
+10:53:18.286 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+10:53:26.716 [main] INFO  - Clicked on the Grocery link
+10:53:26.742 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+10:53:33.545 [main] INFO  - Performed search for keyword: laptop
+10:53:40.318 [main] INFO  - Performed search for keyword: iphone
+10:53:49.009 [main] INFO  - Clicked on the Login link
+10:53:49.933 [main] INFO  - Login text retrieved: Login
+10:53:54.336 [main] INFO  - Cart icon present: true
+10:53:54.336 [main] INFO  - Is Cart Icon Present: true
+10:53:58.669 [main] INFO  - Flipkart logo present: true
+10:53:58.669 [main] INFO  - Is Flipkart Logo Present: true
+10:54:06.586 [main] INFO  - Clicked on the Login link
+10:54:06.803 [main] INFO  - Entered email: admin@admin.com
+10:54:07.008 [main] INFO  - Email input text retrieved: admin@admin.com
+10:54:13.958 [main] INFO  - Clicked on the Login link
+10:54:14.061 [main] INFO  - Clicked on the Signup link
+10:54:14.107 [main] INFO  - Signup text retrieved: Looks like you're new here!
+10:54:23.924 [main] INFO  - Performed search for keyword: iphone 15 plus
+10:54:24.299 [main] INFO  - Clicked on the product link

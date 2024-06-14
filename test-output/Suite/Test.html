@@ -1,0 +1,241 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>22/1/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Jun 14 10:26:14 IST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>180 seconds (180547 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='tests.FooterLinkTest.verifyNavigationToCareersPage()'><b>verifyNavigationToCareersPage</b><br>Test class: tests.FooterLinkTest</td>
+<td><div><pre>java.lang.AssertionError: Failed to navigate to Careers page. expected [true] but found [false]
+	at tests.FooterLinkTest.verifyNavigationToCareersPage(FooterLinkTest.java:129)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 30 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace570434649", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace570434649'><pre>java.lang.AssertionError: Failed to navigate to Careers page. expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at tests.FooterLinkTest.verifyNavigationToCareersPage(FooterLinkTest.java:129)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+</pre></div></td>
+<td>2</td>
+<td>tests.FooterLinkTest@21526f6c</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='tests.CartPageTest.verifyProductAddedToCart()'><b>verifyProductAddedToCart</b><br>Test class: tests.CartPageTest<br>Parameters: TC001, verifyProductAddedToCart, yes, iphone 15 plus</td>
+<td></td>
+<td>8</td>
+<td>tests.CartPageTest@4c36250e</td></tr>
+<tr>
+<td title='tests.FooterLinkTest.verifyNavigationToPrivacyPolicyPage()'><b>verifyNavigationToPrivacyPolicyPage</b><br>Test class: tests.FooterLinkTest</td>
+<td></td>
+<td>1</td>
+<td>tests.FooterLinkTest@21526f6c</td></tr>
+<tr>
+<td title='tests.ProductsPageTest.testAddToCart()'><b>testAddToCart</b><br>Test class: tests.ProductsPageTest</td>
+<td></td>
+<td>6</td>
+<td>tests.ProductsPageTest@5dcbb60</td></tr>
+<tr>
+<td title='tests.FooterLinkTest.verifyPrivacyPolicyLinkPresence()'><b>verifyPrivacyPolicyLinkPresence</b><br>Test class: tests.FooterLinkTest</td>
+<td></td>
+<td>0</td>
+<td>tests.FooterLinkTest@21526f6c</td></tr>
+<tr>
+<td title='tests.LoginTest.testGoToSignupPage()'><b>testGoToSignupPage</b><br>Test class: tests.LoginTest</td>
+<td></td>
+<td>2</td>
+<td>tests.LoginTest@7ef2d7a6</td></tr>
+<tr>
+<td title='tests.HomePageTest.testSearchFunctionality()'><b>testSearchFunctionality</b><br>Test class: tests.HomePageTest<br>Parameters: TC002, Search, yes, iphone, Iphone- Buy Products Online at Best Price in India - All Categories | Flipkart.com</td>
+<td></td>
+<td>2</td>
+<td>tests.HomePageTest@7de0c6ae</td></tr>
+<tr>
+<td title='tests.FooterLinkTest.verifyNavigationToContactUsPage()'><b>verifyNavigationToContactUsPage</b><br>Test class: tests.FooterLinkTest</td>
+<td></td>
+<td>1</td>
+<td>tests.FooterLinkTest@21526f6c</td></tr>
+<tr>
+<td title='tests.FooterLinkTest.verifyNavigationToMyntraPage()'><b>verifyNavigationToMyntraPage</b><br>Test class: tests.FooterLinkTest</td>
+<td></td>
+<td>3</td>
+<td>tests.FooterLinkTest@21526f6c</td></tr>
+<tr>
+<td title='tests.HomePageTest.verifyFlipkartLogoPresence()'><b>verifyFlipkartLogoPresence</b><br>Test class: tests.HomePageTest</td>
+<td></td>
+<td>0</td>
+<td>tests.HomePageTest@7de0c6ae</td></tr>
+<tr>
+<td title='tests.HomePageTest.verifyCartIconPresence()'><b>verifyCartIconPresence</b><br>Test class: tests.HomePageTest</td>
+<td></td>
+<td>0</td>
+<td>tests.HomePageTest@7de0c6ae</td></tr>
+<tr>
+<td title='tests.FooterLinkTest.verifyContactUsLinkPresence()'><b>verifyContactUsLinkPresence</b><br>Test class: tests.FooterLinkTest</td>
+<td></td>
+<td>0</td>
+<td>tests.FooterLinkTest@21526f6c</td></tr>
+<tr>
+<td title='tests.FooterLinkTest.verifyMyntraLinkPresence()'><b>verifyMyntraLinkPresence</b><br>Test class: tests.FooterLinkTest</td>
+<td></td>
+<td>0</td>
+<td>tests.FooterLinkTest@21526f6c</td></tr>
+<tr>
+<td title='tests.HomePageTest.verifyHomePageTitle()'><b>verifyHomePageTitle</b><br>Test class: tests.HomePageTest</td>
+<td></td>
+<td>0</td>
+<td>tests.HomePageTest@7de0c6ae</td></tr>
+<tr>
+<td title='tests.HomePageTest.verifyGroceryNavigation()'><b>verifyGroceryNavigation</b><br>Test class: tests.HomePageTest</td>
+<td></td>
+<td>4</td>
+<td>tests.HomePageTest@7de0c6ae</td></tr>
+<tr>
+<td title='tests.HomePageTest.testSearchFunctionality()'><b>testSearchFunctionality</b><br>Test class: tests.HomePageTest<br>Parameters: TC001, Search, yes, laptop, Laptop- Buy Products Online at Best Price in India - All Categories | Flipkart.com</td>
+<td></td>
+<td>2</td>
+<td>tests.HomePageTest@7de0c6ae</td></tr>
+<tr>
+<td title='tests.HomePageTest.testGoToLoginPage()'><b>testGoToLoginPage</b><br>Test class: tests.HomePageTest</td>
+<td></td>
+<td>2</td>
+<td>tests.HomePageTest@7de0c6ae</td></tr>
+<tr>
+<td title='tests.CartPageTest.verifyIncreaseQuantity()'><b>verifyIncreaseQuantity</b><br>Test class: tests.CartPageTest</td>
+<td></td>
+<td>8</td>
+<td>tests.CartPageTest@4c36250e</td></tr>
+<tr>
+<td title='tests.FooterLinkTest.verifyCareersLinkPresence()'><b>verifyCareersLinkPresence</b><br>Test class: tests.FooterLinkTest</td>
+<td></td>
+<td>0</td>
+<td>tests.FooterLinkTest@21526f6c</td></tr>
+<tr>
+<td title='tests.CartPageTest.verifyRemoveProduct()'><b>verifyRemoveProduct</b><br>Test class: tests.CartPageTest</td>
+<td></td>
+<td>9</td>
+<td>tests.CartPageTest@4c36250e</td></tr>
+<tr>
+<td title='tests.FooterLinkTest.verifyNavigationToAboutUsPage()'><b>verifyNavigationToAboutUsPage</b><br>Test class: tests.FooterLinkTest</td>
+<td></td>
+<td>15</td>
+<td>tests.FooterLinkTest@21526f6c</td></tr>
+<tr>
+<td title='tests.FooterLinkTest.verifyAboutUsLinkPresence()'><b>verifyAboutUsLinkPresence</b><br>Test class: tests.FooterLinkTest</td>
+<td></td>
+<td>0</td>
+<td>tests.FooterLinkTest@21526f6c</td></tr>
+<tr>
+<td title='tests.LoginTest.testEnterEmail()'><b>testEnterEmail</b><br>Test class: tests.LoginTest<br>Parameters: TC004, Enter Email, yes, admin@admin.com, admin@admin.com</td>
+<td></td>
+<td>2</td>
+<td>tests.LoginTest@7ef2d7a6</td></tr>
+</table><p>
+</body>
+</html>

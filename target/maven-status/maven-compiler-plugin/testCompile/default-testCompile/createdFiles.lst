@@ -1,0 +1,12 @@
+pages\BasePage.class
+pages\ProductPage.class
+tests\CartPageTest.class
+pages\LoginPage.class
+pages\CartPage.class
+pages\HomePage.class
+tests\BaseTest.class
+tests\LoginTest.class
+tests\ProductsPageTest.class
+tests\HomePageTest.class
+tests\FooterLinkTest.class
+pages\FooterPage.class
