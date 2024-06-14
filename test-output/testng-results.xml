@@ -1,24 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="23" passed="22" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-14T10:33:06 IST" name="Default suite" finished-at="2024-06-14T10:33:21 IST" duration-ms="15657">
+  <suite started-at="2024-06-14T11:12:48 IST" name="Suite" finished-at="2024-06-14T11:15:14 IST" duration-ms="146226">
     <groups>
+      <group name="footer">
+        <method signature="FooterLinkTest.verifyAboutUsLinkPresence()[pri:1, instance:tests.FooterLinkTest@21526f6c]" name="verifyAboutUsLinkPresence" class="tests.FooterLinkTest"/>
+        <method signature="FooterLinkTest.verifyContactUsLinkPresence()[pri:2, instance:tests.FooterLinkTest@21526f6c]" name="verifyContactUsLinkPresence" class="tests.FooterLinkTest"/>
+        <method signature="FooterLinkTest.verifyCareersLinkPresence()[pri:3, instance:tests.FooterLinkTest@21526f6c]" name="verifyCareersLinkPresence" class="tests.FooterLinkTest"/>
+        <method signature="FooterLinkTest.verifyPrivacyPolicyLinkPresence()[pri:4, instance:tests.FooterLinkTest@21526f6c]" name="verifyPrivacyPolicyLinkPresence" class="tests.FooterLinkTest"/>
+        <method signature="FooterLinkTest.verifyMyntraLinkPresence()[pri:5, instance:tests.FooterLinkTest@21526f6c]" name="verifyMyntraLinkPresence" class="tests.FooterLinkTest"/>
+        <method signature="FooterLinkTest.verifyNavigationToAboutUsPage()[pri:6, instance:tests.FooterLinkTest@21526f6c]" name="verifyNavigationToAboutUsPage" class="tests.FooterLinkTest"/>
+        <method signature="FooterLinkTest.verifyNavigationToContactUsPage()[pri:7, instance:tests.FooterLinkTest@21526f6c]" name="verifyNavigationToContactUsPage" class="tests.FooterLinkTest"/>
+        <method signature="FooterLinkTest.verifyNavigationToCareersPage()[pri:8, instance:tests.FooterLinkTest@21526f6c]" name="verifyNavigationToCareersPage" class="tests.FooterLinkTest"/>
+        <method signature="FooterLinkTest.verifyNavigationToPrivacyPolicyPage()[pri:9, instance:tests.FooterLinkTest@21526f6c]" name="verifyNavigationToPrivacyPolicyPage" class="tests.FooterLinkTest"/>
+        <method signature="FooterLinkTest.verifyNavigationToMyntraPage()[pri:10, instance:tests.FooterLinkTest@21526f6c]" name="verifyNavigationToMyntraPage" class="tests.FooterLinkTest"/>
+      </group> <!-- footer -->
+      <group name="addToCart">
+        <method signature="ProductsPageTest.testAddToCart()[pri:1, instance:tests.ProductsPageTest@5dcbb60]" name="testAddToCart" class="tests.ProductsPageTest"/>
+      </group> <!-- addToCart -->
+      <group name="login">
+        <method signature="LoginTest.testEnterEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.LoginTest@7ef2d7a6]" name="testEnterEmail" class="tests.LoginTest"/>
+        <method signature="LoginTest.testGoToSignupPage()[pri:2, instance:tests.LoginTest@7ef2d7a6]" name="testGoToSignupPage" class="tests.LoginTest"/>
+      </group> <!-- login -->
       <group name="cart">
-        <method signature="CartPageTest.verifyProductAddedToCart(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.CartPageTest@7cbee484]" name="verifyProductAddedToCart" class="tests.CartPageTest"/>
+        <method signature="CartPageTest.verifyProductAddedToCart(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.CartPageTest@4c36250e]" name="verifyProductAddedToCart" class="tests.CartPageTest"/>
+        <method signature="CartPageTest.verifyIncreaseQuantity()[pri:2, instance:tests.CartPageTest@4c36250e]" name="verifyIncreaseQuantity" class="tests.CartPageTest"/>
+        <method signature="CartPageTest.verifyRemoveProduct()[pri:3, instance:tests.CartPageTest@4c36250e]" name="verifyRemoveProduct" class="tests.CartPageTest"/>
       </group> <!-- cart -->
+      <group name="home">
+        <method signature="HomePageTest.verifyHomePageTitle()[pri:1, instance:tests.HomePageTest@7de0c6ae]" name="verifyHomePageTitle" class="tests.HomePageTest"/>
+        <method signature="HomePageTest.verifyGroceryNavigation()[pri:2, instance:tests.HomePageTest@7de0c6ae]" name="verifyGroceryNavigation" class="tests.HomePageTest"/>
+        <method signature="HomePageTest.testSearchFunctionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:tests.HomePageTest@7de0c6ae]" name="testSearchFunctionality" class="tests.HomePageTest"/>
+        <method signature="HomePageTest.testGoToLoginPage()[pri:4, instance:tests.HomePageTest@7de0c6ae]" name="testGoToLoginPage" class="tests.HomePageTest"/>
+        <method signature="HomePageTest.verifyCartIconPresence()[pri:5, instance:tests.HomePageTest@7de0c6ae]" name="verifyCartIconPresence" class="tests.HomePageTest"/>
+        <method signature="HomePageTest.verifyFlipkartLogoPresence()[pri:6, instance:tests.HomePageTest@7de0c6ae]" name="verifyFlipkartLogoPresence" class="tests.HomePageTest"/>
+      </group> <!-- home -->
     </groups>
-    <test started-at="2024-06-14T10:33:06 IST" name="Default test" finished-at="2024-06-14T10:33:21 IST" duration-ms="15657">
-      <class name="tests.CartPageTest">
-        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:tests.CartPageTest@7cbee484]" started-at="2024-06-14T10:33:06 IST" name="setUpSuite" finished-at="2024-06-14T10:33:06 IST" duration-ms="262" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpSuite -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CartPageTest@7cbee484]" started-at="2024-06-14T10:33:07 IST" name="setUp" finished-at="2024-06-14T10:33:13 IST" duration-ms="6931" status="PASS">
+    <test started-at="2024-06-14T11:12:48 IST" name="Test" finished-at="2024-06-14T11:15:14 IST" duration-ms="146226">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@7ef2d7a6]" started-at="2024-06-14T11:13:31 IST" name="setUp" finished-at="2024-06-14T11:13:34 IST" duration-ms="2918" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyProductAddedToCart(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.CartPageTest@7cbee484]" started-at="2024-06-14T10:33:13 IST" name="verifyProductAddedToCart" data-provider="addToCartData" finished-at="2024-06-14T10:33:21 IST" duration-ms="7695" status="PASS">
+        <test-method signature="testEnterEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.LoginTest@7ef2d7a6]" started-at="2024-06-14T11:13:34 IST" name="testEnterEmail" data-provider="loginData" finished-at="2024-06-14T11:13:36 IST" duration-ms="1946" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC004]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Enter Email]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[admin@admin.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[admin@admin.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEnterEmail -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@7ef2d7a6]" started-at="2024-06-14T11:13:36 IST" name="tearDown" finished-at="2024-06-14T11:13:36 IST" duration-ms="410" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testEnterEmail status=SUCCESS method=LoginTest.testEnterEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.LoginTest@7ef2d7a6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginTest@7ef2d7a6]" started-at="2024-06-14T11:13:36 IST" name="setUp" finished-at="2024-06-14T11:13:39 IST" duration-ms="2601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testGoToSignupPage()[pri:2, instance:tests.LoginTest@7ef2d7a6]" started-at="2024-06-14T11:13:39 IST" name="testGoToSignupPage" finished-at="2024-06-14T11:13:41 IST" duration-ms="1983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoToSignupPage -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@7ef2d7a6]" started-at="2024-06-14T11:13:41 IST" name="tearDown" finished-at="2024-06-14T11:13:41 IST" duration-ms="468" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testGoToSignupPage status=SUCCESS method=LoginTest.testGoToSignupPage()[pri:2, instance:tests.LoginTest@7ef2d7a6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.CartPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CartPageTest@4c36250e]" started-at="2024-06-14T11:13:51 IST" name="setUp" finished-at="2024-06-14T11:13:54 IST" duration-ms="2875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductAddedToCart(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.CartPageTest@4c36250e]" started-at="2024-06-14T11:13:54 IST" name="verifyProductAddedToCart" data-provider="addToCartData" finished-at="2024-06-14T11:14:00 IST" duration-ms="6406" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -44,22 +136,507 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyProductAddedToCart -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.CartPageTest@7cbee484]" started-at="2024-06-14T10:33:21 IST" name="tearDown" finished-at="2024-06-14T10:33:21 IST" duration-ms="282" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.CartPageTest@4c36250e]" started-at="2024-06-14T11:14:00 IST" name="tearDown" finished-at="2024-06-14T11:14:01 IST" duration-ms="445" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=verifyProductAddedToCart status=SUCCESS method=CartPageTest.verifyProductAddedToCart(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.CartPageTest@7cbee484] output={null}]]]>
+                <![CDATA[[TestResult name=verifyProductAddedToCart status=SUCCESS method=CartPageTest.verifyProductAddedToCart(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.CartPageTest@4c36250e] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:tests.CartPageTest@7cbee484]" started-at="2024-06-14T10:33:22 IST" name="tearDownSuite" finished-at="2024-06-14T10:33:22 IST" duration-ms="733" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CartPageTest@4c36250e]" started-at="2024-06-14T11:14:01 IST" name="setUp" finished-at="2024-06-14T11:14:04 IST" duration-ms="3097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyIncreaseQuantity()[pri:2, instance:tests.CartPageTest@4c36250e]" started-at="2024-06-14T11:14:04 IST" name="verifyIncreaseQuantity" finished-at="2024-06-14T11:14:13 IST" duration-ms="9391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIncreaseQuantity -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.CartPageTest@4c36250e]" started-at="2024-06-14T11:14:13 IST" name="tearDown" finished-at="2024-06-14T11:14:14 IST" duration-ms="490" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyIncreaseQuantity status=SUCCESS method=CartPageTest.verifyIncreaseQuantity()[pri:2, instance:tests.CartPageTest@4c36250e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CartPageTest@4c36250e]" started-at="2024-06-14T11:14:14 IST" name="setUp" finished-at="2024-06-14T11:14:17 IST" duration-ms="3039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyRemoveProduct()[pri:3, instance:tests.CartPageTest@4c36250e]" started-at="2024-06-14T11:14:17 IST" name="verifyRemoveProduct" finished-at="2024-06-14T11:14:26 IST" duration-ms="9051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRemoveProduct -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.CartPageTest@4c36250e]" started-at="2024-06-14T11:14:26 IST" name="tearDown" finished-at="2024-06-14T11:14:26 IST" duration-ms="342" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyRemoveProduct status=SUCCESS method=CartPageTest.verifyRemoveProduct()[pri:3, instance:tests.CartPageTest@4c36250e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CartPageTest -->
+      <class name="tests.ProductsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ProductsPageTest@5dcbb60]" started-at="2024-06-14T11:13:41 IST" name="setUp" finished-at="2024-06-14T11:13:44 IST" duration-ms="3158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddToCart()[pri:1, instance:tests.ProductsPageTest@5dcbb60]" started-at="2024-06-14T11:13:44 IST" name="testAddToCart" finished-at="2024-06-14T11:13:51 IST" duration-ms="6493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCart -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.ProductsPageTest@5dcbb60]" started-at="2024-06-14T11:13:51 IST" name="tearDown" finished-at="2024-06-14T11:13:51 IST" duration-ms="428" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAddToCart status=SUCCESS method=ProductsPageTest.testAddToCart()[pri:1, instance:tests.ProductsPageTest@5dcbb60] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.ProductsPageTest -->
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:12:48 IST" name="setUpSuite" finished-at="2024-06-14T11:12:48 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:12:48 IST" name="setUp" finished-at="2024-06-14T11:12:55 IST" duration-ms="6565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTitle()[pri:1, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:12:55 IST" name="verifyHomePageTitle" finished-at="2024-06-14T11:12:55 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:12:55 IST" name="tearDown" finished-at="2024-06-14T11:12:56 IST" duration-ms="783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyHomePageTitle status=SUCCESS method=HomePageTest.verifyHomePageTitle()[pri:1, instance:tests.HomePageTest@7de0c6ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:12:56 IST" name="setUp" finished-at="2024-06-14T11:12:59 IST" duration-ms="3045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyGroceryNavigation()[pri:2, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:12:59 IST" name="verifyGroceryNavigation" finished-at="2024-06-14T11:13:04 IST" duration-ms="5004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGroceryNavigation -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:04 IST" name="tearDown" finished-at="2024-06-14T11:13:04 IST" duration-ms="521" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyGroceryNavigation status=SUCCESS method=HomePageTest.verifyGroceryNavigation()[pri:2, instance:tests.HomePageTest@7de0c6ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:05 IST" name="setUp" finished-at="2024-06-14T11:13:09 IST" duration-ms="3170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchFunctionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:09 IST" name="testSearchFunctionality" data-provider="searchData" finished-at="2024-06-14T11:13:11 IST" duration-ms="2332" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Search]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[laptop]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Laptop- Buy Products Online at Best Price in India - All Categories | Flipkart.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunctionality -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:11 IST" name="tearDown" finished-at="2024-06-14T11:13:11 IST" duration-ms="488" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSearchFunctionality status=SUCCESS method=HomePageTest.testSearchFunctionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:tests.HomePageTest@7de0c6ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:11 IST" name="setUp" finished-at="2024-06-14T11:13:14 IST" duration-ms="2755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchFunctionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:14 IST" name="testSearchFunctionality" data-provider="searchData" finished-at="2024-06-14T11:13:18 IST" duration-ms="3964" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Search]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[iphone]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Iphone- Buy Products Online at Best Price in India - All Categories | Flipkart.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunctionality -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:18 IST" name="tearDown" finished-at="2024-06-14T11:13:19 IST" duration-ms="505" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSearchFunctionality status=SUCCESS method=HomePageTest.testSearchFunctionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:tests.HomePageTest@7de0c6ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:19 IST" name="setUp" finished-at="2024-06-14T11:13:21 IST" duration-ms="2713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testGoToLoginPage()[pri:4, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:21 IST" name="testGoToLoginPage" finished-at="2024-06-14T11:13:23 IST" duration-ms="1873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoToLoginPage -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:23 IST" name="tearDown" finished-at="2024-06-14T11:13:24 IST" duration-ms="404" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testGoToLoginPage status=SUCCESS method=HomePageTest.testGoToLoginPage()[pri:4, instance:tests.HomePageTest@7de0c6ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:24 IST" name="setUp" finished-at="2024-06-14T11:13:27 IST" duration-ms="2962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCartIconPresence()[pri:5, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:27 IST" name="verifyCartIconPresence" finished-at="2024-06-14T11:13:27 IST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartIconPresence -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:27 IST" name="tearDown" finished-at="2024-06-14T11:13:27 IST" duration-ms="524" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCartIconPresence status=SUCCESS method=HomePageTest.verifyCartIconPresence()[pri:5, instance:tests.HomePageTest@7de0c6ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:27 IST" name="setUp" finished-at="2024-06-14T11:13:30 IST" duration-ms="2839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyFlipkartLogoPresence()[pri:6, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:30 IST" name="verifyFlipkartLogoPresence" finished-at="2024-06-14T11:13:30 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFlipkartLogoPresence -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:13:30 IST" name="tearDown" finished-at="2024-06-14T11:13:31 IST" duration-ms="562" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyFlipkartLogoPresence status=SUCCESS method=HomePageTest.verifyFlipkartLogoPresence()[pri:6, instance:tests.HomePageTest@7de0c6ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:tests.HomePageTest@7de0c6ae]" started-at="2024-06-14T11:15:14 IST" name="tearDownSuite" finished-at="2024-06-14T11:15:15 IST" duration-ms="315" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownSuite -->
-      </class> <!-- tests.CartPageTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- tests.HomePageTest -->
+      <class name="tests.FooterLinkTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:26 IST" name="setUp" finished-at="2024-06-14T11:14:30 IST" duration-ms="3208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAboutUsLinkPresence()[pri:1, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:30 IST" name="verifyAboutUsLinkPresence" finished-at="2024-06-14T11:14:30 IST" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAboutUsLinkPresence -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:30 IST" name="tearDown" finished-at="2024-06-14T11:14:30 IST" duration-ms="471" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAboutUsLinkPresence status=SUCCESS method=FooterLinkTest.verifyAboutUsLinkPresence()[pri:1, instance:tests.FooterLinkTest@21526f6c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:30 IST" name="setUp" finished-at="2024-06-14T11:14:34 IST" duration-ms="3499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyContactUsLinkPresence()[pri:2, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:34 IST" name="verifyContactUsLinkPresence" finished-at="2024-06-14T11:14:34 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactUsLinkPresence -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:34 IST" name="tearDown" finished-at="2024-06-14T11:14:34 IST" duration-ms="518" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyContactUsLinkPresence status=SUCCESS method=FooterLinkTest.verifyContactUsLinkPresence()[pri:2, instance:tests.FooterLinkTest@21526f6c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:34 IST" name="setUp" finished-at="2024-06-14T11:14:40 IST" duration-ms="5239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCareersLinkPresence()[pri:3, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:40 IST" name="verifyCareersLinkPresence" finished-at="2024-06-14T11:14:40 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCareersLinkPresence -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:40 IST" name="tearDown" finished-at="2024-06-14T11:14:40 IST" duration-ms="609" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCareersLinkPresence status=SUCCESS method=FooterLinkTest.verifyCareersLinkPresence()[pri:3, instance:tests.FooterLinkTest@21526f6c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:40 IST" name="setUp" finished-at="2024-06-14T11:14:43 IST" duration-ms="2980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyPrivacyPolicyLinkPresence()[pri:4, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:43 IST" name="verifyPrivacyPolicyLinkPresence" finished-at="2024-06-14T11:14:43 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPrivacyPolicyLinkPresence -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:43 IST" name="tearDown" finished-at="2024-06-14T11:14:44 IST" duration-ms="540" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPrivacyPolicyLinkPresence status=SUCCESS method=FooterLinkTest.verifyPrivacyPolicyLinkPresence()[pri:4, instance:tests.FooterLinkTest@21526f6c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:44 IST" name="setUp" finished-at="2024-06-14T11:14:46 IST" duration-ms="2668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyMyntraLinkPresence()[pri:5, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:46 IST" name="verifyMyntraLinkPresence" finished-at="2024-06-14T11:14:47 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyntraLinkPresence -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:47 IST" name="tearDown" finished-at="2024-06-14T11:14:47 IST" duration-ms="609" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyMyntraLinkPresence status=SUCCESS method=FooterLinkTest.verifyMyntraLinkPresence()[pri:5, instance:tests.FooterLinkTest@21526f6c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:47 IST" name="setUp" finished-at="2024-06-14T11:14:50 IST" duration-ms="2633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNavigationToAboutUsPage()[pri:6, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:50 IST" name="verifyNavigationToAboutUsPage" finished-at="2024-06-14T11:14:52 IST" duration-ms="2592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigationToAboutUsPage -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:52 IST" name="tearDown" finished-at="2024-06-14T11:14:53 IST" duration-ms="685" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNavigationToAboutUsPage status=SUCCESS method=FooterLinkTest.verifyNavigationToAboutUsPage()[pri:6, instance:tests.FooterLinkTest@21526f6c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:53 IST" name="setUp" finished-at="2024-06-14T11:14:56 IST" duration-ms="2610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNavigationToContactUsPage()[pri:7, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:56 IST" name="verifyNavigationToContactUsPage" finished-at="2024-06-14T11:14:57 IST" duration-ms="1082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigationToContactUsPage -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:57 IST" name="tearDown" finished-at="2024-06-14T11:14:57 IST" duration-ms="413" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNavigationToContactUsPage status=SUCCESS method=FooterLinkTest.verifyNavigationToContactUsPage()[pri:7, instance:tests.FooterLinkTest@21526f6c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:14:57 IST" name="setUp" finished-at="2024-06-14T11:15:00 IST" duration-ms="2804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNavigationToCareersPage()[pri:8, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:15:00 IST" name="verifyNavigationToCareersPage" finished-at="2024-06-14T11:15:03 IST" duration-ms="3070" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Failed to navigate to Careers page. expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Failed to navigate to Careers page. expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at tests.FooterLinkTest.verifyNavigationToCareersPage(FooterLinkTest.java:129)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigationToCareersPage -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:15:03 IST" name="tearDown" finished-at="2024-06-14T11:15:03 IST" duration-ms="395" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNavigationToCareersPage status=FAILURE method=FooterLinkTest.verifyNavigationToCareersPage()[pri:8, instance:tests.FooterLinkTest@21526f6c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:15:03 IST" name="setUp" finished-at="2024-06-14T11:15:06 IST" duration-ms="2873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNavigationToPrivacyPolicyPage()[pri:9, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:15:06 IST" name="verifyNavigationToPrivacyPolicyPage" finished-at="2024-06-14T11:15:07 IST" duration-ms="1045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigationToPrivacyPolicyPage -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:15:07 IST" name="tearDown" finished-at="2024-06-14T11:15:08 IST" duration-ms="443" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNavigationToPrivacyPolicyPage status=SUCCESS method=FooterLinkTest.verifyNavigationToPrivacyPolicyPage()[pri:9, instance:tests.FooterLinkTest@21526f6c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:15:08 IST" name="setUp" finished-at="2024-06-14T11:15:11 IST" duration-ms="2811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNavigationToMyntraPage()[pri:10, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:15:11 IST" name="verifyNavigationToMyntraPage" finished-at="2024-06-14T11:15:14 IST" duration-ms="3238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigationToMyntraPage -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.FooterLinkTest@21526f6c]" started-at="2024-06-14T11:15:14 IST" name="tearDown" finished-at="2024-06-14T11:15:14 IST" duration-ms="561" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNavigationToMyntraPage status=SUCCESS method=FooterLinkTest.verifyNavigationToMyntraPage()[pri:10, instance:tests.FooterLinkTest@21526f6c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.FooterLinkTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

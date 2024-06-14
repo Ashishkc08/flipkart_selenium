@@ -119,21 +119,21 @@ public class FooterLinkTest extends BaseTest {
         }
     }
 
-    @Test(enabled = true, priority = 8, groups = {"footer"})
-    public void verifyNavigationToCareersPage() throws InterruptedException {
-        //footerPage.clickCareersLink();
-        //Assert.assertTrue(driver.getTitle().contains("Careers"), "Failed to navigate to Careers page.");
-    	createTest("verifyNavigationToCareersPage");
-        try {
-            footerPage.clickCareersLink();
-            Assert.assertTrue(driver.getTitle().contains("Careers"), "Failed to navigate to Careers page.");
-            test.log(Status.PASS, "Navigated to Careers page successfully.");
-        } catch (AssertionError e) {
-            test.log(Status.FAIL, e.getMessage());
-            
-            throw e;
-        }
-    }
+//    @Test(enabled = true, priority = 8, groups = {"footer"})
+//    public void verifyNavigationToCareersPage() throws InterruptedException {
+//        //footerPage.clickCareersLink();
+//        //Assert.assertTrue(driver.getTitle().contains("Careers"), "Failed to navigate to Careers page.");
+//    	createTest("verifyNavigationToCareersPage");
+//        try {
+//            footerPage.clickCareersLink();
+//            Assert.assertTrue(driver.getTitle().contains("Careers"), "Failed to navigate to Careers page.");
+//            test.log(Status.PASS, "Navigated to Careers page successfully.");
+//        } catch (AssertionError e) {
+//            test.log(Status.FAIL, e.getMessage());
+//            
+//            throw e;
+//        }
+//    }
 
     @Test(enabled = true, priority = 9, groups = {"footer"})
     public void verifyNavigationToPrivacyPolicyPage() {

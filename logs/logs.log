@@ -1208,3 +1208,39 @@ Session ID: 8c69a4de3931ac158d09ab1316b0e392
 10:54:14.107 [main] INFO  - Signup text retrieved: Looks like you're new here!
 10:54:23.924 [main] INFO  - Performed search for keyword: iphone 15 plus
 10:54:24.299 [main] INFO  - Clicked on the product link
+11:12:55.303 [main] INFO  - Actual Title: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+11:13:04.114 [main] INFO  - Clicked on the Grocery link
+11:13:04.151 [main] INFO  - Actual Grocery Page Title: Flipkart Grocery Store - Buy Groceries Online & Get Rs.1 Deals at Flipkart.com
+11:13:11.444 [main] INFO  - Performed search for keyword: laptop
+11:13:18.551 [main] INFO  - Performed search for keyword: iphone
+11:13:23.589 [main] INFO  - Clicked on the Login link
+11:13:23.788 [main] INFO  - Login text retrieved: Login
+11:13:27.200 [main] INFO  - Cart icon present: true
+11:13:27.200 [main] INFO  - Is Cart Icon Present: true
+11:13:30.610 [main] INFO  - Flipkart logo present: true
+11:13:30.610 [main] INFO  - Is Flipkart Logo Present: true
+11:13:35.126 [main] INFO  - Clicked on the Login link
+11:13:36.058 [main] INFO  - Entered email: admin@admin.com
+11:13:36.084 [main] INFO  - Email input text retrieved: admin@admin.com
+11:13:40.819 [main] INFO  - Clicked on the Login link
+11:13:41.043 [main] INFO  - Clicked on the Signup link
+11:13:41.079 [main] INFO  - Signup text retrieved: Looks like you're new here!
+11:13:46.894 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:13:47.085 [main] INFO  - Clicked on the product link
+11:13:56.724 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:13:56.901 [main] INFO  - Clicked on the product link
+11:14:00.940 [main] INFO  - Attempting to find the price element.
+11:14:00.991 [main] INFO  - Price text found: ₹75,999
+11:14:00.991 [main] INFO  - Parsed price value: 75999
+11:14:06.654 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:14:07.342 [main] INFO  - Clicked on the product link
+11:14:11.621 [main] INFO  - Attempting to increase the quantity.
+11:14:11.869 [main] INFO  - Quantity increased by 1.
+11:14:13.877 [main] INFO  - Attempting to find the quantity text box.
+11:14:13.926 [main] INFO  - Quantity text found: 2
+11:14:19.736 [main] INFO  - Performed search for keyword: iphone 15 plus
+11:14:19.962 [main] INFO  - Clicked on the product link
+11:14:24.094 [main] INFO  - Attempting to click remove link.
+11:14:24.339 [main] INFO  - Remove link clicked.
+11:14:24.339 [main] INFO  - Attempting to click remove button.
+11:14:26.506 [main] INFO  - Empty Cart text retrieved: Missing Cart items?
